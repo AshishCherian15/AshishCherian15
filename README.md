@@ -1,14 +1,9 @@
 <div align="center">
 
-<!-- CUSTOM GLOWING BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ASHISH%20CHERIAN&fontSize=70&fontColor=00F7FF&fontAlignY=38&desc=Full%20Stack%20%7C%20Android%20%7C%20AI%2FML&descSize=20&descAlignY=60&descColor=ffffff&animation=twinkling" width="100%"/>
+<!-- GLOWING NAME BANNER — uses readme-typing-svg (very reliable on GitHub) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&pause=2000&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&height=90&lines=✦+ASHISH+CHERIAN+✦" />
 
-<!-- GLOWING NAME EFFECT VIA SVG BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&pause=1500&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+ASHISH+CHERIAN+⚡;Building+the+Future%2C+One+Commit+at+a+Time" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+🚀;Android+Developer+📱;AI%2FML+Explorer+🤖;Building+Smart+Solutions+💡" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🚀;Android+Developer+📱;AI%2FML+Explorer+🤖;Building+Smart+Solutions+💡" />
 
 <br/>
 
@@ -19,12 +14,15 @@
 <a href="https://portfolio-green-nine-18.vercel.app">
   <img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge&logoColor=orange"/>
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/ashish-cherian-158b49356">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://instagram.com/ash_ashish_1_5">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:ashishcherian15@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -43,10 +41,6 @@
 I build intelligent systems that combine AI with real-world applications.
 Focused on solving meaningful problems with scalable, production-ready tech.
 ```
-
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
-</div>
 
 - 🔭 Currently building **Android Apps, Full Stack Web Apps & AI Tools**
 - 🌱 Exploring **Generative AI in Mobile Development**
@@ -80,7 +74,20 @@ Focused on solving meaningful problems with scalable, production-ready tech.
 
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/AshishCherian15/study-bot/main/screenshots/image.png" width="100%" style="border-radius:10px"/>
+```python
+# AI Study Bot — Core Logic
+@app.post("/chat")
+async def chat(message: str, session_id: str):
+    history = memory.get(session_id, [])
+    history.append({"role": "user",
+                    "content": message})
+    response = groq.chat(
+        model="llama-3.3-70b",
+        messages=history
+    )
+    memory[session_id] = history  # persist
+    return {"reply": response}
+```
 
 </td>
 
@@ -168,11 +175,7 @@ Focused on solving meaningful problems with scalable, production-ready tech.
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,html,css,c,cpp,django,flask,fastapi,react,nextjs,nodejs,express,bootstrap,vite,mongodb,postgres,mysql,sqlite,supabase,vercel,git,github,postman&perline=9" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 **Languages**
 
@@ -191,7 +194,7 @@ Focused on solving meaningful problems with scalable, production-ready tech.
 **AI / ML**
 
 ![AI/ML](https://img.shields.io/badge/AI%2FML-70%25-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-65%25-7C3AED?style=flat-square&logo=anthropic&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-65%25-7C3AED?style=flat-square&logoColor=white)
 
 </div>
 
@@ -252,10 +255,6 @@ Focused on solving meaningful problems with scalable, production-ready tech.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&lines=Code+💻+Chill+🎧+Repeat+🔁;Build+Something+Amazing+🚀;Stay+Curious+🔥;Ship+Fast.+Learn+Faster." />
 
 </div>
@@ -264,6 +263,10 @@ Focused on solving meaningful problems with scalable, production-ready tech.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+stopping+by!&fontSize=24&fontColor=00F7FF&fontAlignY=65" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+👋;Let's+build+something+amazing+together+🚀" />
+
+<br/>
+
+⭐ **If you like my work, consider starring a repo!**
 
 </div>
