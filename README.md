@@ -227,17 +227,27 @@ async def chat(msg: str, session: str):
 ---
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                 DEV PHILOSOPHY                        -->
+<!--                 DEV QUOTES                            -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🎯 Dev Philosophy
+## ✍️ Dev Quotes
 
 <div align="center">
 
-```
-"Code is for humans first, machines second."
-     — Build things that matter. Ship things that work.
-```
+> *"Talk is cheap. Show me the code."*
+>
+> **— Linus Torvalds**
+
+<br/>
+
+> *"Any fool can write code that a computer can understand.*
+> *Good programmers write code that humans can understand."*
+>
+> **— Martin Fowler**
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=620&lines=Talk+is+cheap.+Show+me+the+code.;Write+code+humans+can+understand.;Build+things+that+matter.+%F0%9F%9A%80" alt="Dev quotes typing" />
 
 </div>
 
@@ -248,8 +258,6 @@ async def chat(msg: str, session: str):
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-
----
 
 **Thanks for stopping by! 👋**
 
