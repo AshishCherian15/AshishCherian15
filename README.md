@@ -6,9 +6,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=46&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=100&lines=%E2%9C%A6+ASHISH+CHERIAN+%E2%9C%A6" alt="Ashish Cherian" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2000&pause=800&color=FF6EC7&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Android+Developer+%F0%9F%93%B1;AI%2FML+Explorer+%F0%9F%A4%96;Building+Smart+Solutions+%F0%9F%92%A1" alt="Roles" />
-
 <br/>
+
+![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-🚀-0d1117?style=for-the-badge&labelColor=0d1117&color=00F7FF)
+![Android](https://img.shields.io/badge/Android_Developer-📱-0d1117?style=for-the-badge&labelColor=0d1117&color=FF6EC7)
+![AI/ML](https://img.shields.io/badge/AI%2FML_Explorer-🤖-0d1117?style=for-the-badge&labelColor=0d1117&color=a855f7)
+
+<br/><br/>
 
 🎓 **Final-year CSE** @ Karavali Institute of Technology, Mangalore &nbsp;|&nbsp; 📊 **CGPA: 8.0** &nbsp;|&nbsp; 🎯 **Graduating 2026** &nbsp;|&nbsp; 📍 Karnataka, India
 
