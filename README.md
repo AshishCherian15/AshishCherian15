@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="100%" alt="Developer GIF" />
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="80%" alt="Developer GIF" />
 
 <br/><br/>
 
 # Hi there, I'm Ashish Cherian 👋
+
+<img src="assets/dev-boy.png" width="160" alt="Ashish Cherian - Developer" style="border-radius: 10px; margin: 15px 0;" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&size=34&duration=3500&pause=900&color=00CFFF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Full-Stack+Engineer;Building+Scalable+Products+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+Kotlin;Open+to+collaboration+%26+opportunities" alt="Typing SVG" />
 
