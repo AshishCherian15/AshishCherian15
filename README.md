@@ -1,492 +1,541 @@
-# 📊 PROFILE VIEW COUNTER - LARGE & PROMINENT GUIDE
+<div align="center">
 
-## 🎯 The Problem You Wanted to Solve
+<!-- HEADER BACKGROUND GRADIENT EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=32&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Cherian+%F0%9F%91%8B;Backend+Developer+%7C+CSE+Student;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing Animation">
 
-> "Make the profile view count text BIGGER and more visible"
+<!-- SUBHEADING -->
+<h3 style="color: #7C3AED; font-weight: 300; letter-spacing: 2px;">Crafting Digital Solutions with Passion & Innovation</h3>
 
-## ✅ The Solution
-
-### **Option 1: LARGE Profile Views Counter (RECOMMENDED)**
-
-```html
-![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
-```
-
-**Why it's LARGE:**
-- Uses komarev.com service (industry standard)
-- `style=flat-square` makes it bigger than rounded
-- `color=00CFFF` (bright cyan) makes it POP visually
-- `label=Total+Profile+Views` is DESCRIPTIVE and VISIBLE
-- Displays actual, real-time visitor count
-- Badge size is ~200px wide (LARGE)
-
-**Visual Result:**
-```
-┌──────────────────────────┐
-│ Total Profile Views 1.2k │
-└──────────────────────────┘
-```
-
----
-
-### **Option 2: EXTRA LARGE Visitor Badge**
-
-```html
-![Visitor Count Badge](https://visitor-badge.glitch.me/badge?page_id=AshishCherian15.AshishCherian15&left_color=00d4ff&right_color=000000&label=Profile%20Views&style=plastic)
-```
-
-**Features:**
-- Larger badge format
-- Dual-color design (cyan & black)
-- `style=plastic` makes it more prominent
-- Real-time counter
-- Alternative service (backup option)
-
----
-
-### **Option 3: MASSIVE GitHub View Counter**
-
-```html
-<img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat&label=PROFILE%20VIEWS&labelColor=000000" alt="Profile Views" style="height: 50px; width: auto;">
-```
-
-**Features:**
-- `style=flat` (even larger appearance)
-- Explicit height sizing (50px - LARGE)
-- ALL CAPS label for emphasis
-- Custom styling
-
----
-
-## 📍 WHERE IN README TO PLACE IT?
-
-### **Location 1: Near the Top (HERO SECTION) - Most Visible**
-
-```markdown
 ---
 
 <!-- BADGES ROW -->
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Profile%20Views)
 ![GitHub Followers](https://img.shields.io/github/followers/AshishCherian15?style=flat-square&color=7C3AED&label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/AshishCherian15?style=flat-square&color=00CFFF)
 
 </div>
 
----
-```
-
-**Pros:** Immediately visible, first thing visitors see
-**Cons:** Might be too much emphasis early on
+</div>
 
 ---
 
-### **Location 2: In Contact Section (RECOMMENDED) - Best Balance**
+## 👤 About Me
 
-```markdown
+<table align="center" style="width: 100%; max-width: 850px; background: rgba(255,255,255,0.03); border: 1px solid rgba(0,207,255,0.2); border-radius: 12px; padding: 24px;">
+<tr>
+<td align="left" style="padding: 20px;">
+
+**⚡ Full-Stack Developer** | Backend Specialist | Firebase & Web Dev Enthusiast
+
+I'm a passionate **final-year CSE student** at **KIT, Tiptur** (USN: 4KM22CS018) building innovative products that solve real-world problems. Currently working on **MultiStock** — a portfolio management platform that combines cutting-edge backend architecture with beautiful frontend design.
+
+### 🎯 What I Do:
+- 🚀 Build scalable backend systems with Node.js & Python
+- 🎨 Create beautiful, responsive user interfaces with React & Tailwind
+- 🔥 Develop Android apps with Jetpack Compose
+- 📊 Work with Firebase, PostgreSQL, and Supabase for data management
+- 💡 Solve complex problems with clean, maintainable code
+
+### 🧠 Currently Learning:
+- Advanced system design patterns
+- Microservices architecture
+- Cloud infrastructure & DevOps
+- Machine learning applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Technologies
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000)
+
+</div>
+
+### 🎯 Frontend & UI
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000)
+![Material Design](https://img.shields.io/badge/Material%20Design-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white&labelColor=000)
+
+</div>
+
+### 🔧 Backend & Databases
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=000)
+
+</div>
+
+### ⚙️ Tools & DevOps
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000)
+
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics & Activity
+
+<div align="center">
+
+<table style="width: 100%; max-width: 900px; margin: 20px auto;">
+<tr>
+<td align="center" style="padding: 20px;">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=c9d1d9&count_private=true&include_all_commits=true)](https://github.com/AshishCherian15)
+
+</td>
+<td align="center" style="padding: 20px;">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshishCherian15&theme=tokyonight&hide_border=true&background=0d1117&stroke=00cfff&ring=00cfff&fire=FF6B6B&currStreakNum=00cfff&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9)](https://github.com/AshishCherian15)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&text_color=c9d1d9)](https://github.com/AshishCherian15)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### ⭐ **MultiStock** — Portfolio Management Platform [FEATURED]
+
+> Build, manage, and grow your investment portfolio with real-time analytics
+
+<table style="width: 100%; max-width: 850px; background: rgba(0,207,255,0.1); border: 2px solid rgba(0,207,255,0.4); border-radius: 14px; padding: 24px; margin: 16px auto;">
+<tr>
+<td>
+
+**🎯 What it does:**
+- 📈 Real-time portfolio tracking and analytics
+- 💹 Stock market integration with live price updates
+- 📊 Advanced charting and performance metrics
+- 🔐 Secure authentication & data encryption
+- 🎨 Beautiful, intuitive user interface
+
+**💻 Tech Stack:**
+`React` | `Node.js` | `Express` | `MongoDB` | `Firebase Auth` | `Tailwind CSS` | `Chart.js`
+
+**📌 Key Features:**
+- Dashboard with real-time statistics
+- Portfolio allocation visualization
+- Stock search & watchlist
+- Transaction history & reporting
+- Mobile-responsive design
+
+[🔗 View Repository](https://github.com/AshishCherian15/MultiStock) | [🌐 Live Demo](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📱 **SnipFlow** — Note-Taking Application
+
+> Modern, beautiful note-taking app with Jetpack Compose
+
+<table style="width: 100%; max-width: 850px; background: rgba(124,58,237,0.08); border: 1px solid rgba(124,58,237,0.3); border-radius: 12px; padding: 20px; margin: 16px auto;">
+<tr>
+<td>
+
+**Key Features:**
+- 🎨 Material Design 3 with smooth animations
+- 📝 Rich text editing & formatting
+- 🏷️ Smart categorization & tags
+- ⚡ Real-time cloud sync
+- 🔍 Powerful search functionality
+
+**Tech Stack:**
+`Kotlin` | `Jetpack Compose` | `Firebase Realtime DB` | `MVVM Architecture`
+
+[📂 View Repository](https://github.com/AshishCherian15/SnipFlow)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎓 **Study Bot** — AI-Powered Learning Companion
+
+> Interactive study platform with intelligent quiz generation
+
+<table style="width: 100%; max-width: 850px; background: rgba(124,58,237,0.08); border: 1px solid rgba(124,58,237,0.3); border-radius: 12px; padding: 20px; margin: 16px auto;">
+<tr>
+<td>
+
+**Features:**
+- 🧠 AI-powered quiz generation
+- 📈 Progress tracking & analytics
+- 🎯 Spaced repetition algorithm
+- 🎨 Smooth UI animations
+- 🏆 Achievement system
+
+**Tech Stack:**
+`Kotlin` | `Jetpack Compose` | `Room Database` | `Python Backend`
+
+[📂 View Repository](https://github.com/AshishCherian15/StudyBot)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 **Personal Portfolio Website**
+
+> Full-stack portfolio with admin dashboard
+
+<table style="width: 100%; max-width: 850px; background: rgba(124,58,237,0.08); border: 1px solid rgba(124,58,237,0.3); border-radius: 12px; padding: 20px; margin: 16px auto;">
+<tr>
+<td>
+
+**Features:**
+- 🌐 Single-file responsive design
+- 📊 Admin panel for content management
+- 🎨 Smooth animations & interactions
+- ⚡ Optimized performance
+- 📱 Mobile-first approach
+
+**Tech Stack:**
+`HTML5` | `CSS3` | `Vanilla JavaScript` | `Supabase` | `Vercel`
+
+[🌐 Live Preview](https://ashish-cherian.vercel.app) | [📂 View Repository](https://github.com/AshishCherian15/Portfolio)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧭 Experience & Learning Journey
+
+<div align="center">
+
+<table style="width: 100%; max-width: 850px; margin: 20px auto;">
+<tr style="border-bottom: 2px solid rgba(0,207,255,0.2);">
+<td align="left" style="padding: 20px;">
+
+### 💼 Backend Developer Internship
+**MindMatrix** | 2023 - 2024
+- Developed RESTful APIs with Node.js & Express
+- Implemented database optimization strategies
+- Collaborated with frontend team on API integration
+- Improved API response time by 40%
+
+</td>
+</tr>
+<tr style="border-bottom: 2px solid rgba(0,207,255,0.2);">
+<td align="left" style="padding: 20px;">
+
+### 🎯 Full-Stack Development Learning
+**Self-Directed** | 2024 - Present
+- Mastered React & modern frontend frameworks
+- Deep-dived into backend architecture
+- Built 10+ production-ready projects
+- Contributed to open-source community
+
+</td>
+</tr>
+<tr>
+<td align="left" style="padding: 20px;">
+
+### 🚀 Currently: Building MultiStock
+**Ongoing** | 2024 - Present
+- Leading full-stack development
+- Implementing advanced features & optimization
+- Planning cloud deployment strategy
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<table style="width: 100%; max-width: 850px; margin: 20px auto;">
+<tr>
+<td align="center" style="padding: 16px; width: 50%;">
+
+### 🎓 Certifications
+- ✅ Advanced JavaScript (Udemy)
+- ✅ React Mastery (Udemy)
+- ✅ Node.js & Express (Udemy)
+- ✅ Firebase Complete Guide
+
+</td>
+<td align="center" style="padding: 16px; width: 50%;">
+
+### 🌟 Achievements
+- ⭐ 500+ GitHub Stars
+- 🏅 Open Source Contributor
+- 💡 4 Major Project Launches
+- 📊 100+ GitHub Followers
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💡 What I'm Currently Working On
+
+<div align="center">
+
+<table style="width: 100%; max-width: 850px; background: rgba(0,207,255,0.05); border: 1px solid rgba(0,207,255,0.2); border-radius: 12px; padding: 20px; margin: 20px auto;">
+<tr>
+<td align="left">
+
+### 🔥 Active Projects:
+
+| Project | Status | Focus |
+|---------|--------|-------|
+| **MultiStock** | 🚀 In Development | Full-stack portfolio platform |
+| **AI Learning Bot** | 🔄 Improving | Adding ML features |
+| **System Design** | 📚 Learning | Scalable architecture patterns |
+| **Open Source** | 👀 Contributing | Community projects |
+
+### 🎯 Next 6 Months:
+- ✨ Launch MultiStock v1.0 publicly
+- 📊 Build data analytics dashboard
+- 🤖 Integrate AI recommendations
+- 📱 Develop mobile app version
+- 🔗 Contribute to major open-source projects
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎨 Core Skills & Strengths
+
+<div align="center">
+
+<table style="width: 100%; max-width: 850px; margin: 20px auto;">
+<tr>
+<td align="center" style="padding: 16px; background: rgba(0,207,255,0.08); border-radius: 10px; margin: 8px;">
+
+### ⚡ Backend Development
+- **Node.js & Express** - RESTful API design
+- **Database Design** - MongoDB, PostgreSQL
+- **Authentication** - JWT, Firebase Auth
+- **API Optimization** - Caching, indexing
+
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 16px; background: rgba(124,58,237,0.08); border-radius: 10px; margin: 8px;">
+
+### 🎨 Frontend Development
+- **React** - Modern component architecture
+- **Responsive Design** - Mobile-first approach
+- **CSS/Tailwind** - Beautiful UI implementation
+- **Performance** - Optimization & lazy loading
+
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 16px; background: rgba(0,207,255,0.08); border-radius: 10px; margin: 8px;">
+
+### 📱 Mobile Development
+- **Jetpack Compose** - Modern Android UI
+- **Material Design** - Professional styling
+- **State Management** - Clean architecture
+- **Firebase Integration** - Real-time databases
+
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 16px; background: rgba(124,58,237,0.08); border-radius: 10px; margin: 8px;">
+
+### 🧠 Problem Solving
+- **System Design** - Scalable solutions
+- **Algorithm Optimization** - Efficient code
+- **Debugging** - Root cause analysis
+- **Code Quality** - Clean, maintainable code
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📬 Let's Connect & Collaborate!
 
 <div align="center">
 
-### 📊 Profile Statistics
+<p style="font-size: 18px; margin: 20px 0; color: #00CFFF; font-weight: bold;">
+I'm always excited to discuss new projects, ideas, and opportunities!
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 24px 0;">
 
-**Profile View Counter** - Track how many people visit this profile!
-
-![Followers](https://img.shields.io/github/followers/AshishCherian15?style=flat-square&color=7C3AED&logo=github)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishcherian.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-cherian)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCherian15)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://ashish-cherian.vercel.app)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AshishCherian)
 
 </div>
-```
 
-**Pros:** Visible but not overwhelming
-**Cons:** Requires scrolling to see
+### 🎯 I'm Open To:
+
+**💼 Full-Time Roles** | **🎓 Internships** | **💡 Freelance Projects** | **🤝 Collaborations** | **🎤 Speaking Opportunities**
+
+### 📞 Quick Info:
+- 📧 Email: **ashishcherian.dev@gmail.com**
+- 💼 LinkedIn: [ashish-cherian](https://linkedin.com/in/ashish-cherian)
+- 🌐 Portfolio: [ashish-cherian.vercel.app](https://ashish-cherian.vercel.app)
+- 📱 Location: **Bengaluru, Karnataka, India**
+- 🎓 College: **KIT, Tiptur** (USN: 4KM22CS018)
+
+</div>
 
 ---
 
-### **Location 3: Footer Section - Professional**
+## 🎯 My Philosophy & Values
 
-```markdown
+<div align="center">
+
+```
+💻 Code by day | 🚀 Build with purpose | 🌙 Debug at night | ☕ Coffee always!
+
+"Every line of code tells a story. Make it a good one."
+```
+
+### Core Values:
+- ✨ **Quality First** - Write clean, maintainable code
+- 🚀 **Performance Matters** - Optimize for speed & efficiency
+- 🤝 **Collaboration** - Lift others up, share knowledge
+- 📚 **Never Stop Learning** - Embrace challenges & growth
+- 💡 **Innovation** - Build things that matter
+
+</div>
+
+---
+
 ## 📊 Profile Statistics & Engagement
 
 <div align="center">
 
+### 🔥 Overall Activity
+
+![Ashish's GitHub Activity](https://github-contribution-stats.vercel.app/api/graph?username=AshishCherian15&theme=tokyonight&hide_border=true)
+
+<br/>
+
+### 👥 Community Engagement
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
 ![Followers](https://img.shields.io/github/followers/AshishCherian15?style=flat-square&color=7C3AED&logo=github)
 
 </div>
-```
-
-**Pros:** Professional placement
-**Cons:** Only visible after scrolling through entire profile
 
 ---
 
-## 🎨 STYLING OPTIONS TO MAKE IT BIGGER
+## 🎁 Bonus: Fun Facts About Me
 
-### **Option A: Using style attribute (HTML)**
+<div align="center">
 
-```html
-<div style="text-align: center; margin: 40px 0;">
-  <img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views" 
-       alt="Profile Views" 
-       style="height: 45px; width: auto; margin: 10px;">
-</div>
-```
+<table style="width: 100%; max-width: 850px; background: rgba(124,58,237,0.08); border: 1px solid rgba(124,58,237,0.2); border-radius: 12px; padding: 20px; margin: 20px auto;">
+<tr>
+<td align="center">
 
-**Result:**
-- Height: 45px (LARGER than default ~25px)
-- Extra padding (40px margin top/bottom)
-- Centered with margin
+### 🏋️ Beyond Code:
+- **Fitness Enthusiast** - Core strength & body composition
+- **Tech Blogger** - Writing about development & career
+- **Open Source Advocate** - Contributing to community
+- **Lifelong Learner** - Always exploring new technologies
 
----
+### ⚡ Random Facts:
+- ☕ Can't code without coffee
+- 🎮 Gaming helps me think through problems
+- 📚 Reading documentation is my hobby
+- 🌙 Best ideas come at 2 AM
+- 🚀 Dream: Build products used by millions
 
-### **Option B: Using table for size control**
-
-```html
-<table style="width: 100%; text-align: center; margin: 30px 0;">
-  <tr>
-    <td>
-      <h2 style="color: #00CFFF;">Profile View Counter</h2>
-      <img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views" 
-           alt="Profile Views" 
-           style="height: 55px; margin: 20px;">
-      <p style="color: #7C3AED; font-size: 16px; margin-top: 10px;">
-        👥 Total visitors to this profile
-      </p>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
-```
-
-**Result:**
-- Header text above badge
-- Badge size: 55px (VERY LARGE)
-- Description below
-- Extra padding & styling
-
----
-
-### **Option C: Maximum Prominence Box**
-
-```html
-<div align="center" style="background: rgba(0,207,255,0.1); border: 2px solid rgba(0,207,255,0.4); border-radius: 12px; padding: 30px; margin: 40px 0; max-width: 600px; margin-left: auto; margin-right: auto;">
-
-<h2 style="color: #00CFFF; font-size: 24px; margin: 0 0 20px 0;">📊 You're Here!</h2>
-
-<img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Profile+Views" 
-     alt="Profile Views" 
-     style="height: 60px; margin: 20px 0;">
-
-<p style="color: #C9D1D9; font-size: 16px; margin: 15px 0;">
-  <strong>Thank you for visiting my profile!</strong>
-</p>
-
-<p style="color: #7C3AED; font-size: 14px;">
-  Every view helps me understand how my work reaches people
-</p>
 
 </div>
-```
-
-**Result:**
-- 🎨 Glassmorphic card (cyan glow border)
-- 📏 60px height badge (EXTRA LARGE)
-- 📝 Descriptive text above & below
-- 🎯 Dedicated section for counter
-- ✨ Professional appearance
 
 ---
 
-## 📈 COMPLETE COUNTER SECTION (COPY-PASTE READY)
+<div align="center">
 
-### **Minimal Version (Just the Counter):**
+## ⭐ Support My Work
 
-```html
-<div align="center" style="margin: 40px 0;">
+If you find my projects useful or interesting, consider:
+- ⭐ **Starring** repositories you like
+- 🔗 **Following** for more updates
+- 💬 **Collaborating** on projects
+- 📢 **Sharing** with your network
+- ☕ **Supporting** my work
 
-![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
+---
+
+<h3 style="color: #00CFFF; margin: 30px 0;">Thank You For Visiting! 🙏</h3>
+
+**Made with ❤️ by Ashish Cherian**
+
+*Last updated: March 2026 | [Back to Top](#)*
 
 </div>
-```
-
----
-
-### **Standard Version (Recommended):**
-
-```html
-<div align="center" style="margin: 40px 0;">
-
-<h3 style="color: #00CFFF; margin-bottom: 20px;">📊 Profile Statistics</h3>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
-
-<p style="color: #7C3AED; margin-top: 10px; font-size: 14px;">
-  <strong>Thank you for visiting!</strong>
-</p>
-
-</div>
-```
-
----
-
-### **Premium Version (Most Prominent):**
-
-```html
-<div align="center" style="background: rgba(0,207,255,0.1); border: 2px solid rgba(0,207,255,0.4); border-radius: 12px; padding: 40px; margin: 50px auto; max-width: 700px;">
-
-<h2 style="color: #00CFFF; font-size: 28px; margin: 0 0 10px 0; letter-spacing: 1px;">📊 PROFILE VIEWS</h2>
-
-<p style="color: #7C3AED; font-size: 14px; margin: 0 0 30px 0; letter-spacing: 2px;">Track visitors in real-time</p>
-
-<img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views" 
-     alt="Profile Views" 
-     style="height: 65px; margin: 20px 0;">
-
-<hr style="border: none; height: 1px; background: rgba(0,207,255,0.2); margin: 25px 0;">
-
-<p style="color: #C9D1D9; font-size: 15px; margin: 15px 0; line-height: 1.6;">
-  <strong>Every visit matters!</strong> Your profile views help track your growth in the developer community. Thank you for being here! 🙏
-</p>
-
-<p style="color: #7C3AED; font-size: 12px; margin: 10px 0;">
-  Updated in real-time | Powered by Komarev
-</p>
-
-</div>
-```
-
-**What Makes This LARGE & PROMINENT:**
-- ✅ 65px image height (VERY LARGE)
-- ✅ Glassmorphic box with cyan glow
-- ✅ Large heading with 28px font
-- ✅ Extra padding (40px)
-- ✅ Descriptive text above & below
-- ✅ Horizontal separator line
-- ✅ Max width for focus
-- ✅ Clear visual hierarchy
-
----
-
-## 🔧 CUSTOMIZATION GUIDE
-
-### Change Username:
-```html
-<!-- Replace AshishCherian15 with your GitHub username -->
-username=AshishCherian15 → username=YourUsername
-```
-
-### Change Color:
-```html
-<!-- Replace 00CFFF (cyan) with -->
-color=00CFFF  → color=FF006E (Pink)
-              → color=3DDC84 (Green)
-              → color=FFB703 (Orange)
-              → color=FF6B6B (Red)
-```
-
-### Change Label Text:
-```html
-<!-- Replace "Total Profile Views" with -->
-label=Total+Profile+Views → label=Profile+Visits
-                         → label=Visitors
-                         → label=Visitors+Count
-```
-
-### Change Style:
-```html
-<!-- Replace flat-square with -->
-style=flat-square → style=flat (larger appearance)
-                 → style=plastic (3D effect)
-                 → style=for-the-badge (maximum size)
-```
-
----
-
-## 📊 BEFORE & AFTER EXAMPLE
-
-### BEFORE (Small, Hard to See):
-```
-Embedded in text with other badges
-Regular size (~20px height)
-```
-
-### AFTER (Large, Very Prominent):
-```
-┌──────────────────────────┐
-│                          │
-│  📊 PROFILE VIEWS        │
-│  Total Profile Views: 5k │
-│                          │
-│    Thank you visiting!   │
-│                          │
-└──────────────────────────┘
-```
-
----
-
-## 🎯 BEST PRACTICES
-
-1. **Height Sizing:**
-   - Small: 30-35px (default)
-   - Medium: 40-50px (good visibility)
-   - Large: 55-65px (VERY PROMINENT)
-   - Extra: 70px+ (maximum)
-
-2. **Color Selection:**
-   - Use bright, contrasting colors
-   - Match your profile theme
-   - #00CFFF (cyan) = trendy, tech-focused
-   - #FF006E (pink) = bold, modern
-
-3. **Placement:**
-   - Hero section = most visibility
-   - Contact section = balanced (RECOMMENDED)
-   - Footer = subtle, professional
-
-4. **Accompanying Text:**
-   - Always add description
-   - Thank visitors
-   - Explain what counter tracks
-   - Add personality
-
-5. **Testing:**
-   - View on different browsers
-   - Check mobile appearance
-   - Verify counter updates
-   - Test all links
-
----
-
-## 🚀 IMPLEMENTATION STEPS
-
-### Step 1: Choose Your Option
-- Option A: Basic (recommended for simplicity)
-- Option B: Table format (recommended for control)
-- Option C: Premium box (recommended for impact)
-
-### Step 2: Copy the Code
-- Select entire code block
-- Copy to clipboard (Ctrl+C)
-
-### Step 3: Paste in README
-- Go to GitHub profile repo
-- Edit README.md
-- Paste code where desired
-- Adjust positioning if needed
-
-### Step 4: Customize
-- Replace username (AshishCherian15)
-- Adjust colors if desired
-- Modify text/labels
-- Set size preference
-
-### Step 5: Commit
-- Scroll to "Commit changes"
-- Add message: "Add large profile view counter"
-- Click "Commit"
-
-### Step 6: Verify
-- Refresh GitHub profile
-- Check counter displays correctly
-- Verify size looks good
-- Test on mobile
-
----
-
-## ✅ FINAL CHECKLIST
-
-- [ ] Counter badge displays
-- [ ] Size is clearly visible (40px+)
-- [ ] Color is bright & matches theme
-- [ ] Counter updates in real-time
-- [ ] Text is readable
-- [ ] Mobile view looks good
-- [ ] All styling is applied
-- [ ] Links work (if included)
-
----
-
-## 🎁 BONUS: Multiple Counters
-
-Want to track from multiple sources?
-
-```html
-<div align="center" style="margin: 40px 0;">
-
-<h3 style="color: #00CFFF;">📊 Profile Views</h3>
-
-<!-- Komarev Counter -->
-![Views 1](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Views)
-
-<!-- Visitor Badge Counter -->
-![Views 2](https://visitor-badge.glitch.me/badge?page_id=AshishCherian15.AshishCherian15&left_color=00d4ff&right_color=000000&label=Visitors)
-
-</div>
-```
-
----
-
-## 📞 TROUBLESHOOTING
-
-### Counter Not Showing?
-- ✅ Check GitHub username spelling
-- ✅ Verify internet connection
-- ✅ Clear browser cache
-- ✅ Try alternative service (switch providers)
-
-### Badge Too Small?
-- ✅ Add explicit height in style
-- ✅ Use style=flat instead of flat-square
-- ✅ Use larger container padding
-- ✅ Wrap in larger div
-
-### Color Not Showing?
-- ✅ Verify hex code is correct
-- ✅ Try different color option
-- ✅ Check GitHub theme compatibility
-- ✅ Use web-safe colors
-
-### Text Alignment Off?
-- ✅ Use `align="center"` in div
-- ✅ Add explicit text-align: center
-- ✅ Adjust margin/padding values
-- ✅ Check browser zoom level
-
----
-
-## 🎯 RECOMMENDED IMPLEMENTATION
-
-For **MAXIMUM VISIBILITY** and **PROFESSIONAL APPEARANCE**, I recommend:
-
-```html
-<div align="center" style="background: rgba(0,207,255,0.1); border: 2px solid rgba(0,207,255,0.4); border-radius: 12px; padding: 40px; margin: 50px auto; max-width: 700px;">
-
-<h2 style="color: #00CFFF; font-size: 26px; margin-bottom: 20px;">📊 Profile Views Counter</h2>
-
-<img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views" 
-     alt="Profile Views" 
-     style="height: 55px; margin: 20px 0;">
-
-<p style="color: #7C3AED; font-size: 14px; margin-top: 15px;">
-  Thanks for visiting! Your profile views help track your impact in the community.
-</p>
-
-</div>
-```
-
-**Why this is BEST:**
-- ✅ 55px height (clearly visible)
-- ✅ Glassmorphic cyan box (stands out)
-- ✅ Clear heading above
-- ✅ Description below
-- ✅ Professional styling
-- ✅ Real-time counter
-- ✅ Perfect for GitHub README
-
----
-
-**This is your solution for LARGE, PROMINENT profile view counter!** 🎉
-
-Copy, paste, customize, and watch your profile views grow! 📈
