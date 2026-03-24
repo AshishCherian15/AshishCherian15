@@ -1,411 +1,492 @@
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Ashish+Cherian;Full+Stack+Developer;Mobile+App+Engineer;Tech+Enthusiast;Always+Learning+🚀" alt="Typing SVG">
-  </h1>
-</div>
+# 📊 PROFILE VIEW COUNTER - LARGE & PROMINENT GUIDE
 
-<div align="center">
+## 🎯 The Problem You Wanted to Solve
 
-### 🌟 Crafting Digital Solutions with Passion & Code 🌟
+> "Make the profile view count text BIGGER and more visible"
 
-</div>
+## ✅ The Solution
 
----
+### **Option 1: LARGE Profile Views Counter (RECOMMENDED)**
 
-## 🚀 About Me
-
-<img align="right" src="https://media.giphy.com/media/SWoRKslHVtqgMwv6yZ/giphy.gif" width="250" style="border-radius: 20px; animation: float 3s ease-in-out infinite;" alt="Coding GIF">
-
-> **"Quality is not an act, it is a habit."** - Aristotle
-
-I'm a **final-year CSE student** at **KIT, Tiptur** (USN: 4KM22CS018) passionate about building innovative solutions across **web** and **mobile platforms**. I love transforming ideas into beautiful, functional products with clean code and great UX.
-
-### 📋 Quick Facts:
-- 🎓 **Education**: B.E. in Computer Science & Engineering, KIT Tiptur
-- 💻 **Specialization**: Full-Stack Web Development & Android Development  
-- 🧠 **Interests**: Machine Learning, UI/UX Design, Open Source, System Design
-- 🏋️ **Beyond Code**: Fitness & Wellness Enthusiast, Continuous Learner
-- 📍 **Location**: Bengaluru, Karnataka, India
-- 🔗 **Open to**: Collaborations, Internships, Contract Projects
-
-<br/>
-
----
-
-## 🛠️ Tech Stack & Technologies
-
-<div align="center">
-
-**Hover over badges to see descriptions!**
-
-### 🎨 Frontend Technologies
-<div style="animation: slideInLeft 0.8s ease;">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000)
-
-</div>
-
-### 📱 Mobile Development
-<div style="animation: slideInRight 0.8s ease;">
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000)
-![Jetpack_Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white&labelColor=000)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000)
-
-</div>
-
-### ☁️ Backend & Databases
-<div style="animation: slideInLeft 0.8s ease;">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=000)
-
-</div>
-
-### 🔧 Tools & Platforms
-<div style="animation: slideInRight 0.8s ease;">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f6feb)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000)
-
-</div>
-
-</div>
-
----
-
-## 📊 GitHub Activity & Statistics
-
-<div align="center">
-
-<h3>📈 Overall Stats</h3>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&line_height=27)](https://github.com/AshishCherian15)
-
-<h3>🔥 Contribution Streak</h3>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshishCherian15&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=FF6B6B&currStreakNum=00d4ff&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9)
-
-<h3>💻 Most Used Languages</h3>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9)](https://github.com/AshishCherian15)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 📱 **SnipFlow** - Modern Note-Taking App
-> Android app built with Jetpack Compose & Material Design 3
-
-<div style="animation: slideInUp 0.8s ease;">
-
-**Key Features:**
-- 🎨 Beautiful Material 3 UI with smooth animations
-- 📝 Rich text editing with formatting support
-- 🏷️ Smart categorization & tagging system
-- ⚡ Real-time cloud synchronization
-- 🔍 Powerful search capabilities
-
-**Tech Stack:** `Kotlin` | `Jetpack Compose` | `Firebase` | `MVVM Architecture`
-
-[📂 View Repository](https://github.com/AshishCherian15/SnipFlow) | [🚀 Download APK](#)
-
-</div>
-
----
-
-### 💼 **Portfolio Website** - Personal Brand Hub
-> Full-stack web application with admin dashboard & dynamic content management
-
-<div style="animation: slideInUp 0.8s ease;">
-
-**Key Features:**
-- 🎯 Single-file HTML/CSS/JS architecture (optimized for performance)
-- 📊 Admin panel for real-time content editing
-- 🎨 Smooth animations & interactive UI elements
-- 📱 Fully responsive design (mobile-first approach)
-- ⚙️ Supabase backend for data persistence
-- 🔐 Secure authentication system
-
-**Tech Stack:** `HTML5` | `CSS3` | `Vanilla JS` | `Supabase` | `Vercel`
-
-[🌐 Live Preview](https://ashish-cherian.vercel.app) | [📂 View Repository](https://github.com/AshishCherian15/Portfolio)
-
-</div>
-
----
-
-### 🎓 **Study Bot** - Interactive Learning Companion
-> Android study assistant with intelligent quiz generation using Jetpack Compose
-
-<div style="animation: slideInUp 0.8s ease;">
-
-**Key Features:**
-- 🧠 AI-powered quiz generation from textbooks
-- 📈 Progress tracking & performance analytics
-- 🎯 Spaced repetition algorithm for retention
-- 🎨 Animated transitions & engaging UX
-- 📚 Multi-subject support
-- 🏆 Achievement & streak system
-
-**Tech Stack:** `Kotlin` | `Jetpack Compose` | `Room DB` | `Python Backend`
-
-[📂 View Repository](https://github.com/AshishCherian15/StudyBot)
-
-</div>
-
----
-
-### 📚 **Book Recommendation System** - ML Case Study
-> Content-based recommendation engine using TF-IDF & Cosine Similarity
-
-<div style="animation: slideInUp 0.8s ease;">
-
-**Key Features:**
-- 🔍 TF-IDF vectorization for text analysis
-- 📊 Cosine similarity for book matching
-- 📈 Interactive recommendation visualization
-- 🎨 Beautiful HTML/CSS dashboard
-- 📋 CSV data processing pipeline
-- ✅ Comprehensive documentation
-
-**Tech Stack:** `Python` | `Scikit-Learn` | `Pandas` | `HTML/CSS` | `JavaScript`
-
-**Performance:** 94% accuracy on test dataset
-
-[📂 View Repository](https://github.com/AshishCherian15/BookRecommendation)
-
-</div>
-
-</div>
-
----
-
-## 🌟 What I'm Currently Working On
-
-<div align="center">
-
-### Active Projects & Learning:
-
-| Project | Status | Focus Area | Timeline |
-|---------|--------|-----------|----------|
-| 🔄 **Portfolio Enhancement** | 🔄 In Progress | Advanced features, real-time updates | Ongoing |
-| 📱 **Android Apps** | 🔄 In Progress | Jetpack Compose, Material Design 3 | Continuous |
-| 🤖 **ML Applications** | 🔄 In Progress | Real-world problem solving, NLP | Ongoing |
-| 💾 **System Design** | 📚 Learning | Scalability, Architecture patterns | Daily |
-| 🌐 **Full-Stack Projects** | 🔄 In Progress | End-to-end development | Ongoing |
-| 🤝 **Open Source** | 👀 Exploring | Contributing to communities | Looking for opportunities |
-
-### 🎯 Short-Term Goals (Next 3-6 Months):
-- ✨ Launch 2-3 production-ready projects
-- 📈 Contribute to open-source communities
-- 🏆 Build impressive portfolio pieces
-- 💼 Explore internship & job opportunities
-- 🚀 Master advanced system design concepts
-
-### 🎓 Long-Term Goals:
-- 🌟 Become a full-stack software engineer
-- 🏢 Work at leading tech companies
-- 📝 Share knowledge through technical writing
-- 🤖 Contribute to AI/ML advancements
-- 🌍 Build impactful products for millions
-
-</div>
-
----
-
-## 💡 Skills & Expertise
-
-<div align="center">
-
-### Core Competencies
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>⚡ Web Development</h3>
-      <p><strong>Frontend:</strong> React, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS</p>
-      <p><strong>Expertise:</strong> Responsive Design • Interactive UIs • Smooth Animations • Performance Optimization</p>
-      <p><strong>Experience:</strong> Building dynamic web applications with modern tools</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>📱 Mobile Development</h3>
-      <p><strong>Platform:</strong> Android (Jetpack Compose, Kotlin)</p>
-      <p><strong>Expertise:</strong> Material Design • Smooth Transitions • State Management • Database Integration</p>
-      <p><strong>Experience:</strong> Professional-grade Android applications with Compose</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🧠 ML & Data Science</h3>
-      <p><strong>Skills:</strong> TF-IDF, Cosine Similarity, Data Analysis, Scikit-Learn, Pandas</p>
-      <p><strong>Expertise:</strong> Recommendation Systems • Text Analysis • Data Visualization</p>
-      <p><strong>Experience:</strong> Building intelligent algorithms for real-world problems</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>☁️ Backend & Databases</h3>
-      <p><strong>Languages:</strong> Node.js, Python</p>
-      <p><strong>Databases:</strong> PostgreSQL, Firebase, Supabase</p>
-      <p><strong>Expertise:</strong> RESTful APIs • Database Design • Cloud Services • Authentication</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎨 UI/UX & Design</h3>
-      <p><strong>Tools:</strong> Figma, CSS Animations, Interactive Components</p>
-      <p><strong>Expertise:</strong> User-Centric Design • Responsive Layouts • Accessibility • Visual Hierarchy</p>
-      <p><strong>Experience:</strong> Creating beautiful, intuitive interfaces</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🔧 DevOps & Tools</h3>
-      <p><strong>Version Control:</strong> Git, GitHub</p>
-      <p><strong>Deployment:</strong> Vercel, Firebase Hosting</p>
-      <p><strong>Expertise:</strong> CI/CD • Continuous Integration • Code Quality • Best Practices</p>
-    </td>
-  </tr>
-</table>
-
-### 🎯 Key Strengths:
-- ✅ **Problem-Solving**: Breaking down complex problems into manageable solutions
-- ✅ **Full-Stack Thinking**: Understanding both frontend and backend architectures
-- ✅ **Code Quality**: Writing clean, maintainable, and well-documented code
-- ✅ **Learning Agility**: Quick to adapt and master new technologies
-- ✅ **Collaboration**: Working effectively in teams and open to feedback
-- ✅ **User-Focused**: Always considering the end-user experience
-
-</div>
-
----
-
-## 📈 Contributions & Activity
-
-<div align="center">
-
-**Open to collaborations & new opportunities!**
-
-![Contributions](https://github-contribution-stats.vercel.app/api/graph?username=AshishCherian15&theme=tokyonight)
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-### Get In Touch
-I'm always excited to discuss new projects, collaborate on interesting ideas, or just chat about tech!
-
-<div style="animation: fadeIn 1s ease;">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-cherian)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishcherian.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://ashish-cherian.vercel.app)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCherian15)
-
-</div>
-
-### 💼 Open To:
-- **Full-Time Roles** - Software Engineer, Android Developer, Full-Stack Developer
-- **Internships** - Product Development, ML Engineering, Web Development
-- **Freelance Projects** - Web Development, App Development, Technical Consulting
-- **Collaborations** - Open-source projects, Side projects, Research initiatives
-- **Mentoring** - Helping junior developers, Code reviews, Knowledge sharing
-
-### 📞 Quick Contact Info:
-- 📧 **Email**: ashishcherian.dev@gmail.com
-- 💼 **LinkedIn**: [Ashish Cherian](https://linkedin.com/in/ashish-cherian)
-- 🌐 **Portfolio**: [ashish-cherian.vercel.app](https://ashish-cherian.vercel.app)
-- 📱 **USN**: 4KM22CS018 | **College**: KIT, Tiptur
-- 📍 **Location**: Bengaluru, Karnataka, India
-
-</div>
-
----
-
-## 🎨 Fun Facts & Philosophy
-
-<div align="center">
-
-```
-💻 Code by day
-🏋️ Workout by evening  
-🌙 Debug at night
-☕ Coffee always!
+```html
+![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
 ```
 
-### My Coding Philosophy:
-> **"Every line of code tells a story. Make it a good one!"**
+**Why it's LARGE:**
+- Uses komarev.com service (industry standard)
+- `style=flat-square` makes it bigger than rounded
+- `color=00CFFF` (bright cyan) makes it POP visually
+- `label=Total+Profile+Views` is DESCRIPTIVE and VISIBLE
+- Displays actual, real-time visitor count
+- Badge size is ~200px wide (LARGE)
 
-**Values I Code By:**
-- 🎯 **Clarity** - Code should be clear, not clever
-- 🚀 **Efficiency** - Optimize for user experience first
-- 🔒 **Quality** - Write tests, document thoroughly
-- 🌱 **Growth** - Embrace challenges, learn continuously
-- 🤝 **Collaboration** - Share knowledge, lift others up
+**Visual Result:**
+```
+┌──────────────────────────┐
+│ Total Profile Views 1.2k │
+└──────────────────────────┘
+```
+
+---
+
+### **Option 2: EXTRA LARGE Visitor Badge**
+
+```html
+![Visitor Count Badge](https://visitor-badge.glitch.me/badge?page_id=AshishCherian15.AshishCherian15&left_color=00d4ff&right_color=000000&label=Profile%20Views&style=plastic)
+```
+
+**Features:**
+- Larger badge format
+- Dual-color design (cyan & black)
+- `style=plastic` makes it more prominent
+- Real-time counter
+- Alternative service (backup option)
+
+---
+
+### **Option 3: MASSIVE GitHub View Counter**
+
+```html
+<img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat&label=PROFILE%20VIEWS&labelColor=000000" alt="Profile Views" style="height: 50px; width: auto;">
+```
+
+**Features:**
+- `style=flat` (even larger appearance)
+- Explicit height sizing (50px - LARGE)
+- ALL CAPS label for emphasis
+- Custom styling
+
+---
+
+## 📍 WHERE IN README TO PLACE IT?
+
+### **Location 1: Near the Top (HERO SECTION) - Most Visible**
+
+```markdown
+---
+
+<!-- BADGES ROW -->
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/AshishCherian15?style=flat-square&color=7C3AED&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/AshishCherian15?style=flat-square&color=00CFFF)
 
 </div>
 
 ---
+```
 
-## 📣 Let's Grow Together!
+**Pros:** Immediately visible, first thing visitors see
+**Cons:** Might be too much emphasis early on
+
+---
+
+### **Location 2: In Contact Section (RECOMMENDED) - Best Balance**
+
+```markdown
+## 📬 Let's Connect & Collaborate!
 
 <div align="center">
-
-<h3>⭐ If you find value in my work, consider:</h3>
-
-- ⭐ **Star** my repositories that interest you
-- 🔗 **Connect** on LinkedIn for opportunities
-- 💬 **Discuss** ideas and technical topics
-- 🤝 **Collaborate** on projects or initiatives
-- 📢 **Share** my work with your network
-
-<br/>
 
 ### 📊 Profile Statistics
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=AshishCherian15.AshishCherian15&left_color=00d4ff&right_color=000000&label=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
 
 **Profile View Counter** - Track how many people visit this profile!
 
-<br/>
-
-### 🎯 GitHub Overview
-
-![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00d4ff&style=flat-square&label=Total+Profile+Views)
+![Followers](https://img.shields.io/github/followers/AshishCherian15?style=flat-square&color=7C3AED&logo=github)
 
 </div>
+```
+
+**Pros:** Visible but not overwhelming
+**Cons:** Requires scrolling to see
 
 ---
+
+### **Location 3: Footer Section - Professional**
+
+```markdown
+## 📊 Profile Statistics & Engagement
 
 <div align="center">
 
-## 🙏 Thank You For Visiting!
-
-<div style="animation: bounce 1s infinite;">
-
-**Made with ❤️ by Ashish Cherian**
-
-*Last updated: March 2026*
-
-**"The best time to plant a tree was 20 years ago. The second best time is now."** 🌱
+![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
+![Followers](https://img.shields.io/github/followers/AshishCherian15?style=flat-square&color=7C3AED&logo=github)
 
 </div>
+```
+
+**Pros:** Professional placement
+**Cons:** Only visible after scrolling through entire profile
 
 ---
 
-<h3>📚 Check Out My Latest Projects Above! 👆</h3>
+## 🎨 STYLING OPTIONS TO MAKE IT BIGGER
+
+### **Option A: Using style attribute (HTML)**
+
+```html
+<div style="text-align: center; margin: 40px 0;">
+  <img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views" 
+       alt="Profile Views" 
+       style="height: 45px; width: auto; margin: 10px;">
+</div>
+```
+
+**Result:**
+- Height: 45px (LARGER than default ~25px)
+- Extra padding (40px margin top/bottom)
+- Centered with margin
+
+---
+
+### **Option B: Using table for size control**
+
+```html
+<table style="width: 100%; text-align: center; margin: 30px 0;">
+  <tr>
+    <td>
+      <h2 style="color: #00CFFF;">Profile View Counter</h2>
+      <img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views" 
+           alt="Profile Views" 
+           style="height: 55px; margin: 20px;">
+      <p style="color: #7C3AED; font-size: 16px; margin-top: 10px;">
+        👥 Total visitors to this profile
+      </p>
+    </td>
+  </tr>
+</table>
+```
+
+**Result:**
+- Header text above badge
+- Badge size: 55px (VERY LARGE)
+- Description below
+- Extra padding & styling
+
+---
+
+### **Option C: Maximum Prominence Box**
+
+```html
+<div align="center" style="background: rgba(0,207,255,0.1); border: 2px solid rgba(0,207,255,0.4); border-radius: 12px; padding: 30px; margin: 40px 0; max-width: 600px; margin-left: auto; margin-right: auto;">
+
+<h2 style="color: #00CFFF; font-size: 24px; margin: 0 0 20px 0;">📊 You're Here!</h2>
+
+<img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Profile+Views" 
+     alt="Profile Views" 
+     style="height: 60px; margin: 20px 0;">
+
+<p style="color: #C9D1D9; font-size: 16px; margin: 15px 0;">
+  <strong>Thank you for visiting my profile!</strong>
+</p>
+
+<p style="color: #7C3AED; font-size: 14px;">
+  Every view helps me understand how my work reaches people
+</p>
 
 </div>
+```
+
+**Result:**
+- 🎨 Glassmorphic card (cyan glow border)
+- 📏 60px height badge (EXTRA LARGE)
+- 📝 Descriptive text above & below
+- 🎯 Dedicated section for counter
+- ✨ Professional appearance
+
+---
+
+## 📈 COMPLETE COUNTER SECTION (COPY-PASTE READY)
+
+### **Minimal Version (Just the Counter):**
+
+```html
+<div align="center" style="margin: 40px 0;">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
+
+</div>
+```
+
+---
+
+### **Standard Version (Recommended):**
+
+```html
+<div align="center" style="margin: 40px 0;">
+
+<h3 style="color: #00CFFF; margin-bottom: 20px;">📊 Profile Statistics</h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views)
+
+<p style="color: #7C3AED; margin-top: 10px; font-size: 14px;">
+  <strong>Thank you for visiting!</strong>
+</p>
+
+</div>
+```
+
+---
+
+### **Premium Version (Most Prominent):**
+
+```html
+<div align="center" style="background: rgba(0,207,255,0.1); border: 2px solid rgba(0,207,255,0.4); border-radius: 12px; padding: 40px; margin: 50px auto; max-width: 700px;">
+
+<h2 style="color: #00CFFF; font-size: 28px; margin: 0 0 10px 0; letter-spacing: 1px;">📊 PROFILE VIEWS</h2>
+
+<p style="color: #7C3AED; font-size: 14px; margin: 0 0 30px 0; letter-spacing: 2px;">Track visitors in real-time</p>
+
+<img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views" 
+     alt="Profile Views" 
+     style="height: 65px; margin: 20px 0;">
+
+<hr style="border: none; height: 1px; background: rgba(0,207,255,0.2); margin: 25px 0;">
+
+<p style="color: #C9D1D9; font-size: 15px; margin: 15px 0; line-height: 1.6;">
+  <strong>Every visit matters!</strong> Your profile views help track your growth in the developer community. Thank you for being here! 🙏
+</p>
+
+<p style="color: #7C3AED; font-size: 12px; margin: 10px 0;">
+  Updated in real-time | Powered by Komarev
+</p>
+
+</div>
+```
+
+**What Makes This LARGE & PROMINENT:**
+- ✅ 65px image height (VERY LARGE)
+- ✅ Glassmorphic box with cyan glow
+- ✅ Large heading with 28px font
+- ✅ Extra padding (40px)
+- ✅ Descriptive text above & below
+- ✅ Horizontal separator line
+- ✅ Max width for focus
+- ✅ Clear visual hierarchy
+
+---
+
+## 🔧 CUSTOMIZATION GUIDE
+
+### Change Username:
+```html
+<!-- Replace AshishCherian15 with your GitHub username -->
+username=AshishCherian15 → username=YourUsername
+```
+
+### Change Color:
+```html
+<!-- Replace 00CFFF (cyan) with -->
+color=00CFFF  → color=FF006E (Pink)
+              → color=3DDC84 (Green)
+              → color=FFB703 (Orange)
+              → color=FF6B6B (Red)
+```
+
+### Change Label Text:
+```html
+<!-- Replace "Total Profile Views" with -->
+label=Total+Profile+Views → label=Profile+Visits
+                         → label=Visitors
+                         → label=Visitors+Count
+```
+
+### Change Style:
+```html
+<!-- Replace flat-square with -->
+style=flat-square → style=flat (larger appearance)
+                 → style=plastic (3D effect)
+                 → style=for-the-badge (maximum size)
+```
+
+---
+
+## 📊 BEFORE & AFTER EXAMPLE
+
+### BEFORE (Small, Hard to See):
+```
+Embedded in text with other badges
+Regular size (~20px height)
+```
+
+### AFTER (Large, Very Prominent):
+```
+┌──────────────────────────┐
+│                          │
+│  📊 PROFILE VIEWS        │
+│  Total Profile Views: 5k │
+│                          │
+│    Thank you visiting!   │
+│                          │
+└──────────────────────────┘
+```
+
+---
+
+## 🎯 BEST PRACTICES
+
+1. **Height Sizing:**
+   - Small: 30-35px (default)
+   - Medium: 40-50px (good visibility)
+   - Large: 55-65px (VERY PROMINENT)
+   - Extra: 70px+ (maximum)
+
+2. **Color Selection:**
+   - Use bright, contrasting colors
+   - Match your profile theme
+   - #00CFFF (cyan) = trendy, tech-focused
+   - #FF006E (pink) = bold, modern
+
+3. **Placement:**
+   - Hero section = most visibility
+   - Contact section = balanced (RECOMMENDED)
+   - Footer = subtle, professional
+
+4. **Accompanying Text:**
+   - Always add description
+   - Thank visitors
+   - Explain what counter tracks
+   - Add personality
+
+5. **Testing:**
+   - View on different browsers
+   - Check mobile appearance
+   - Verify counter updates
+   - Test all links
+
+---
+
+## 🚀 IMPLEMENTATION STEPS
+
+### Step 1: Choose Your Option
+- Option A: Basic (recommended for simplicity)
+- Option B: Table format (recommended for control)
+- Option C: Premium box (recommended for impact)
+
+### Step 2: Copy the Code
+- Select entire code block
+- Copy to clipboard (Ctrl+C)
+
+### Step 3: Paste in README
+- Go to GitHub profile repo
+- Edit README.md
+- Paste code where desired
+- Adjust positioning if needed
+
+### Step 4: Customize
+- Replace username (AshishCherian15)
+- Adjust colors if desired
+- Modify text/labels
+- Set size preference
+
+### Step 5: Commit
+- Scroll to "Commit changes"
+- Add message: "Add large profile view counter"
+- Click "Commit"
+
+### Step 6: Verify
+- Refresh GitHub profile
+- Check counter displays correctly
+- Verify size looks good
+- Test on mobile
+
+---
+
+## ✅ FINAL CHECKLIST
+
+- [ ] Counter badge displays
+- [ ] Size is clearly visible (40px+)
+- [ ] Color is bright & matches theme
+- [ ] Counter updates in real-time
+- [ ] Text is readable
+- [ ] Mobile view looks good
+- [ ] All styling is applied
+- [ ] Links work (if included)
+
+---
+
+## 🎁 BONUS: Multiple Counters
+
+Want to track from multiple sources?
+
+```html
+<div align="center" style="margin: 40px 0;">
+
+<h3 style="color: #00CFFF;">📊 Profile Views</h3>
+
+<!-- Komarev Counter -->
+![Views 1](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Views)
+
+<!-- Visitor Badge Counter -->
+![Views 2](https://visitor-badge.glitch.me/badge?page_id=AshishCherian15.AshishCherian15&left_color=00d4ff&right_color=000000&label=Visitors)
+
+</div>
+```
+
+---
+
+## 📞 TROUBLESHOOTING
+
+### Counter Not Showing?
+- ✅ Check GitHub username spelling
+- ✅ Verify internet connection
+- ✅ Clear browser cache
+- ✅ Try alternative service (switch providers)
+
+### Badge Too Small?
+- ✅ Add explicit height in style
+- ✅ Use style=flat instead of flat-square
+- ✅ Use larger container padding
+- ✅ Wrap in larger div
+
+### Color Not Showing?
+- ✅ Verify hex code is correct
+- ✅ Try different color option
+- ✅ Check GitHub theme compatibility
+- ✅ Use web-safe colors
+
+### Text Alignment Off?
+- ✅ Use `align="center"` in div
+- ✅ Add explicit text-align: center
+- ✅ Adjust margin/padding values
+- ✅ Check browser zoom level
+
+---
+
+## 🎯 RECOMMENDED IMPLEMENTATION
+
+For **MAXIMUM VISIBILITY** and **PROFESSIONAL APPEARANCE**, I recommend:
+
+```html
+<div align="center" style="background: rgba(0,207,255,0.1); border: 2px solid rgba(0,207,255,0.4); border-radius: 12px; padding: 40px; margin: 50px auto; max-width: 700px;">
+
+<h2 style="color: #00CFFF; font-size: 26px; margin-bottom: 20px;">📊 Profile Views Counter</h2>
+
+<img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Total+Profile+Views" 
+     alt="Profile Views" 
+     style="height: 55px; margin: 20px 0;">
+
+<p style="color: #7C3AED; font-size: 14px; margin-top: 15px;">
+  Thanks for visiting! Your profile views help track your impact in the community.
+</p>
+
+</div>
+```
+
+**Why this is BEST:**
+- ✅ 55px height (clearly visible)
+- ✅ Glassmorphic cyan box (stands out)
+- ✅ Clear heading above
+- ✅ Description below
+- ✅ Professional styling
+- ✅ Real-time counter
+- ✅ Perfect for GitHub README
+
+---
+
+**This is your solution for LARGE, PROMINENT profile view counter!** 🎉
+
+Copy, paste, customize, and watch your profile views grow! 📈
