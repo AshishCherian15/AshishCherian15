@@ -1,5 +1,7 @@
 <div align="center">
 
+## Hi there, I'm Ashish 👋
+
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&size=34&duration=3500&pause=900&color=00CFFF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ashish+Cherian+%F0%9F%91%8B;Backend+Developer+%7C+Full-Stack+Engineer;Building+Scalable+Products+%F0%9F%9A%80;Open+Source+%7C+React+%7C+Node.js+%7C+Python" alt="Typing SVG" />
 
 <br/>
@@ -8,7 +10,11 @@
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-6e4f7f79-4f9b-4c46-baa2-57dc6c5316f8.gif" width="100%" alt="Developer Animation" />
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="100%" alt="Looping Developer GIF" />
+
+<br/>
+
+<sub>⚡ GIF loops continuously on GitHub profile rendering.</sub>
 
 </div>
 
