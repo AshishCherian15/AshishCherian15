@@ -26,7 +26,7 @@
 
 - 👨‍💻 Backend-focused Full-Stack Developer
 - 📍 Bengaluru, India
-- 🎓 Final-year CSE student at KIT, Tiptur
+- 🎓 Final-year CSE student at Karavali Institute of Technology, Mangalore
 - ⚡ Interested in scalable APIs, clean architecture, and system design
 - 🚀 Building practical products with strong fundamentals
 
