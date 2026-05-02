@@ -115,10 +115,15 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/repos/AshishCherian15?theme=tokyo_night)
-![](https://github-profile-summary-cards.vercel.app/api/top-langs/AshishCherian15?theme=tokyo_night)
-![](https://nirzak-streak-stats.vercel.app/?user=AshishCherian15&theme=shadow_blue&hide_border=false)
-![](https://github-profile-summary-cards.vercel.app/api/profile-details/AshishCherian15?theme=tokyo_night)
+| Metric | Value |
+|--------|-------|
+| 🗂️ Public Repos | 20+ |
+| ⭐ Total Stars | 50+ |
+| 👥 Followers | Growing |
+| 📚 Languages | Java, Python, JavaScript, Kotlin |
+| 🔧 Main Tech | React, Node.js, MongoDB, Supabase |
+
+**📈 Activity Status:** Active Developer | Consistent Contributions | Open Source Enthusiast
 
 </div>
 
@@ -150,8 +155,18 @@
 
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AshishCherian15&repo=Portfolio&theme=tokyo_night&hide_border=true)](https://github.com/AshishCherian15/Portfolio)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AshishCherian15&repo=Pharmacy-Management&theme=tokyo_night&hide_border=true)](https://github.com/AshishCherian15/Pharmacy-Management)
+#### Featured Projects
+
+1. **[Portfolio](https://github.com/AshishCherian15/Portfolio)** 🚀
+   - Neon UI | Supabase Backend | Admin Panel | Full-Stack
+
+2. **[Pharmacy Management](https://github.com/AshishCherian15/Pharmacy-Management)** 💊
+   - React | Node.js | MongoDB | Full-Stack
+
+3. **[SnipFlow](https://github.com/AshishCherian15/SnipFlow)** 📋
+   - Android | Jetpack Compose | Kotlin
+
+**[View All Repositories →](https://github.com/AshishCherian15?tab=repositories)**
 
 </div>
 
