@@ -112,6 +112,20 @@
 ---
 
 ## 📊 GitHub Stats
+### 📈 Repository Statistics
+
+| 📊 Metric | 📋 Data |
+|-----------|--------|
+| **Public Repositories** | 20+ |
+| **Primary Languages** | JavaScript, Python, Kotlin, Java |
+| **Frontend Framework** | React, HTML5/CSS3 |
+| **Backend Stack** | Node.js, Python, Supabase |
+| **Mobile Development** | Android (Kotlin, Java) |
+| **Databases** | MongoDB, Supabase PostgreSQL |
+| **ML/AI Tools** | Scikit-Learn, TF-IDF, Pandas |
+| **Development Tools** | Git, GitHub, VS Code, Vercel |
+
+**🔗 [View Complete Repository List](https://github.com/AshishCherian15?tab=repositories)**
 
 <div align="center">
 
@@ -161,6 +175,25 @@
 </div>
 
 ### 🔝 Top Repositories (By Complexity & Impact)
+#### 🥇 Featured Public Repositories
+
+| # | Project | Tech Stack | Description |
+|---|---------|-----------|-------------|
+| 1️⃣ | **[Portfolio](https://github.com/AshishCherian15/Portfolio)** | `Supabase` `HTML5` `CSS3` `JavaScript` | Single-file neon portfolio with Supabase CMS + Live Admin Panel |
+| 2️⃣ | **[Pharmacy-Management](https://github.com/AshishCherian15/Pharmacy-Management)** | `React` `Node.js` `MongoDB` | Full-stack inventory, billing & patient records |
+| 3️⃣ | **[SnipFlow](https://github.com/AshishCherian15/SnipFlow)** | `Kotlin` `Jetpack Compose` `Android` | Modern code snippet manager for Android |
+
+#### 📚 Tech Stack Breakdown
+
+- **Languages:** JavaScript, Python, Kotlin, Java, HTML/CSS
+- **Frontend:** React, HTML5, CSS3, Jetpack Compose
+- **Backend:** Node.js, Python, Supabase
+- **Mobile:** Android Development (Kotlin, Java)
+- **Databases:** MongoDB, Supabase (PostgreSQL)
+- **ML/Data:** Scikit-Learn, TF-IDF, Pandas, NumPy
+- **Tools:** Git, GitHub, VS Code, Docker, Vercel
+
+**[📂 Browse All Public Repositories →](https://github.com/AshishCherian15?tab=repositories)**
 
 <div align="center">
 
