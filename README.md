@@ -115,15 +115,24 @@
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| 🗂️ Public Repos | 20+ |
-| ⭐ Total Stars | 50+ |
-| 👥 Followers | Growing |
-| 📚 Languages | Java, Python, JavaScript, Kotlin |
-| 🔧 Main Tech | React, Node.js, MongoDB, Supabase |
+### 📈 Real-Time Stats
 
-**📈 Activity Status:** Active Developer | Consistent Contributions | Open Source Enthusiast
+<a href="https://github.com/AshishCherian15?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=tokyo_night&include_all_commits=true&count_private=false&disable_animations=false" height="180" />
+</a>
+<a href="https://github.com/AshishCherian15?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=tokyo_night&langs_count=8" height="180" />
+</a>
+
+### 📋 Repository Stats
+
+| Metric | Count |
+|--------|-------|
+| 📁 Public Repositories | 20+ |
+| 🌟 Featured Projects | 6 |
+| 💻 Languages Used | 8+ |
+| 🏆 Main Stack | React, Node.js, Android, Python |
+| 🔥 Most Used Language | JavaScript / Python |
 
 </div>
 
@@ -151,22 +160,29 @@
 
 </div>
 
-### 🔝 Top Repositories
+### 🔝 Top Repositories (By Complexity & Impact)
 
 <div align="center">
 
-#### Featured Projects
+#### 🥇 Most Complex Projects
 
-1. **[Portfolio](https://github.com/AshishCherian15/Portfolio)** 🚀
-   - Neon UI | Supabase Backend | Admin Panel | Full-Stack
+| # | Project | Tech Stack | Description |
+|---|---------|-----------|-------------|
+| 1️⃣ | **[Portfolio](https://github.com/AshishCherian15/Portfolio)** | `Supabase` `HTML5` `CSS3` `JavaScript` | Single-file neon portfolio with Supabase CMS + Admin Panel |
+| 2️⃣ | **[Pharmacy Management](https://github.com/AshishCherian15/Pharmacy-Management)** | `React` `Node.js` `MongoDB` | Full-stack inventory & billing system |
+| 3️⃣ | **[SnipFlow](https://github.com/AshishCherian15/SnipFlow)** | `Kotlin` `Jetpack Compose` `Android` | Modern code snippet manager for Android |
+| 4️⃣ | **[Voice Changer App](https://github.com/AshishCherian15)** | `Android` `Java` `Audio API` | Real-time voice pitch modifier |
+| 5️⃣ | **[Movie Recommender](https://github.com/AshishCherian15)** | `Python` `Scikit-Learn` `TF-IDF` | ML-based content recommendation engine |
 
-2. **[Pharmacy Management](https://github.com/AshishCherian15/Pharmacy-Management)** 💊
-   - React | Node.js | MongoDB | Full-Stack
+#### 📊 Technologies by Frequency
 
-3. **[SnipFlow](https://github.com/AshishCherian15/SnipFlow)** 📋
-   - Android | Jetpack Compose | Kotlin
+- **Frontend:** React, HTML/CSS, JavaScript, Jetpack Compose
+- **Backend:** Node.js, Python, Supabase
+- **Mobile:** Android, Kotlin, Java
+- **Databases:** MongoDB, Supabase
+- **ML/Data:** Scikit-Learn, TF-IDF, Pandas
 
-**[View All Repositories →](https://github.com/AshishCherian15?tab=repositories)**
+**[🔗 View All Repositories](https://github.com/AshishCherian15?tab=repositories)**
 
 </div>
 
