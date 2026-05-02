@@ -204,8 +204,7 @@
 | 1️⃣ | **[Portfolio](https://github.com/AshishCherian15/Portfolio)** | `Supabase` `HTML5` `CSS3` `JavaScript` | Single-file neon portfolio with Supabase CMS + Admin Panel |
 | 2️⃣ | **[Pharmacy Management](https://github.com/AshishCherian15/Pharmacy-Management)** | `React` `Node.js` `MongoDB` | Full-stack inventory & billing system |
 | 3️⃣ | **[SnipFlow](https://github.com/AshishCherian15/SnipFlow)** | `Kotlin` `Jetpack Compose` `Android` | Modern code snippet manager for Android |
-| 4️⃣ | **[Voice Changer App](https://github.com/AshishCherian15)** | `Android` `Java` `Audio API` | Real-time voice pitch modifier |
-| 5️⃣ | **[Movie Recommender](https://github.com/AshishCherian15)** | `Python` `Scikit-Learn` `TF-IDF` | ML-based content recommendation engine |
+| 4️⃣ |  **[Movie Recommender](https://github.com/AshishCherian15)** | `Python` `Scikit-Learn` `TF-IDF` | ML-based content recommendation engine |
 
 #### 📊 Technologies by Frequency
 
