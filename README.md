@@ -115,9 +115,10 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AshishCherian15&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/repos/AshishCherian15?theme=tokyo_night)
+![](https://github-profile-summary-cards.vercel.app/api/top-langs/AshishCherian15?theme=tokyo_night)
 ![](https://nirzak-streak-stats.vercel.app/?user=AshishCherian15&theme=shadow_blue&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/profile-details/AshishCherian15?theme=tokyo_night)
 
 </div>
 
@@ -145,11 +146,12 @@
 
 </div>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Repositories
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=AshishCherian15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=AshishCherian15&repo=Portfolio&theme=tokyo_night&hide_border=true)](https://github.com/AshishCherian15/Portfolio)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=AshishCherian15&repo=Pharmacy-Management&theme=tokyo_night&hide_border=true)](https://github.com/AshishCherian15/Pharmacy-Management)
 
 </div>
 
