@@ -129,6 +129,14 @@
 
 </div>
 
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshishCherian15&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+
+</div>
+
 ### ✍️ Random Dev Quote
 
 <div align="center">
