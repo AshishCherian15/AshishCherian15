@@ -1,128 +1,353 @@
-<!-- Animated Neon Blue GitHub Profile for Ashish Cherian -->
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--              ASHISH CHERIAN — GITHUB PROFILE README         -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<img src="https://media.tenor.com/2vN3E1vQzJkAAAAC/anime-coding.gif" width="260" />
+<!-- ═══════════════════ PROFILE IMAGE ═══════════════════ -->
+<img src="./GITHUB-profile.png" width="100%" alt="Ashish Cherian GitHub Profile"/>
 
-# Hi, I'm 👋  
-# **Ashish Cherian 💙**
+<!-- ═══════════════════ TYPING HEADLINE ═══════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Ashish+Cherian+👋;Full-Stack+%7C+Android+%7C+AI+Engineer;Kotlin+•+React+•+Django+•+FastAPI;Building+Intelligent+Systems+🚀;CGPA+8.41+%7C+First+Class+with+Distinction)](https://github.com/AshishCherian15)
 
-### Full‑Stack Developer • Android Engineer • AI Systems Engineer
+<!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
+<p>
+    <img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS"/><a href="https://portfolio-green-nine-18.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ashish-cherian-158b49356"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ashishcherian15@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/AshishCherian15"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+apps+and+scalable+systems;Android+%7C+React+%7C+Django+%7C+FastAPI;Gemini+%7C+LLaMA+%7C+LangChain;Always+learning%2C+always+shipping+products)](https://github.com/AshishCherian15)
-
-<a href="https://portfolio-green-nine-18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=firefox&logoColor=white"></a>
-<a href="https://linkedin.com/in/ashish-cherian-158b49356"><img src="https://img.shields.io/badge/LinkedIn-00A3FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:ashishcherian15@gmail.com"><img src="https://img.shields.io/badge/Email-0096FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/AshishCherian15"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
-
----
+</p>
 
 </div>
 
+---
+
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 ## 💫 About Me
 
-> I don’t watch anime — I **build intelligent systems** that feel alive.
+<div align="center">
 
-- 🎓 B.E Computer Science & Engineering (VTU) — CGPA **8.41**, First Class with Distinction  
-- 💻 **Full‑Stack + Android + AI Systems Engineer**  
-- 🤖 Integrating **Gemini**, **Groq LLaMA 3**, and **LangChain** into real products  
-- 🚀 3 internships • 5+ shipped products • 6 certifications  
-- 📍 Bengaluru, India  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=🧠+AI+Systems+Engineer+%26+Android+Developer;🔥+Rated+EXCELLENT+%40+MindMatrix+Internship;🎓+CGPA+8.41+—+First+Class+with+Distinction;🚀+5%2B+Shipped+Products+%7C+3+Internships+%7C+6+Certs;💡+Building+Intelligent+Systems+with+Gemini+%26+LangChain)](https://github.com/AshishCherian15)
+
+</div>
+
+<br/>
+
+<img align="right" src="https://media.tenor.com/2vN3E1vQzJkAAAAC/anime-coding.gif" width="240" style="border-radius:16px"/>
+
+<h3>🙋‍♂️ &nbsp;Who am I?</h3>
+
+> 🎓 &nbsp;**B.E Computer Science & Engineering** — Karavali Institute of Technology, VTU &nbsp;`2022–2026`
+>
+> 📊 &nbsp;**CGPA: 8.41 / 84.14%** — First Class with Distinction
+>
+> 💼 &nbsp;**Open to:** Software Developer / Android Developer roles
+>
+> 📍 &nbsp;Mangalore, Karnataka, India &nbsp;|&nbsp; 📞 +91 9535570326
+
+<br/>
+
+<table>
+  <tr>
+    <td>🔭</td><td><b>Currently building</b></td><td>Production-grade Android apps with Gemini AI integration</td>
+  </tr>
+  <tr>
+    <td>🌱</td><td><b>Learning</b></td><td>Advanced ML architectures & LLM fine-tuning</td>
+  </tr>
+  <tr>
+    <td>🤖</td><td><b>AI Stack</b></td><td>Gemini API &nbsp;•&nbsp; Groq LLaMA 3 &nbsp;•&nbsp; LangChain</td>
+  </tr>
+  <tr>
+    <td>⭐</td><td><b>Top Achievement</b></td><td>Rated <b>EXCELLENT</b> at MindMatrix Android Internship</td>
+  </tr>
+  <tr>
+    <td>🚀</td><td><b>Shipped</b></td><td>5+ production projects &nbsp;•&nbsp; 3 internships &nbsp;•&nbsp; 6 certifications</td>
+  </tr>
+  <tr>
+    <td>💬</td><td><b>Ask me about</b></td><td>Kotlin, React, Django, FastAPI, Firebase, AI integration</td>
+  </tr>
+  <tr>
+    <td>📫</td><td><b>Reach me at</b></td><td><a href="mailto:ashishcherian15@gmail.com">ashishcherian15@gmail.com</a></td>
+  </tr>
+</table>
+
+<br clear="right"/>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  🎓 CGPA 8.41   🚀 5+ Projects   🏢 3 Internships   🏆 6 Certs  ║
+║       💻 Full-Stack  •  📱 Android  •  🤖 AI Engineer          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&fontSize=20)
+
+</div>
 
 ---
 
-## ⚙️ Tech I Know
+<!-- ═══════════════════ ANIMATED STATS ROW ═══════════════════ -->
+## 📊 Quick Stats
 
-![HTML](https://img.shields.io/badge/HTML-00F5FF?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-00F5FF?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00F5FF?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-00F5FF?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-00F5FF?style=for-the-badge&logo=react&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-00F5FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-00F5FF?style=for-the-badge&logo=android&logoColor=white)
-![Django](https://img.shields.io/badge/Django-00F5FF?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-00F5FF?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-00F5FF?style=for-the-badge&logo=firebase&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00F5FF?style=for-the-badge&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-00F5FF?style=for-the-badge&logo=google&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00F5FF?style=for-the-badge&logo=postgresql&logoColor=white)
-![Responsive UI](https://img.shields.io/badge/Responsive_UI-00F5FF?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
+
+| 🎓 CGPA | 🚀 Projects | 🏢 Internships | 🏆 Certifications | 📍 Location |
+|:-------:|:-----------:|:--------------:|:-----------------:|:-----------:|
+| **8.41** | **5+** | **3** | **6** | **Mangalore, India** |
+
+</div>
 
 ---
 
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+**AI / ML & Tools**
+
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B6?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLaMA3-FF6B35?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
 ## 🏢 Professional Experience
 
-### 🔥 MindMatrix — Android App Development Intern (Gen AI)
-**Feb – May 2026** | **Rating: ⭐ EXCELLENT**  
-- Built **Hasta‑Kala Shop** — 13‑screen artisan business management app  
-- Integrated Google Gemini AI for intelligent features  
-- Implemented Firebase Auth + real‑time database sync  
-- Fixed critical LiveData bug affecting production  
-- **Tech:** Kotlin, Jetpack Compose, Firebase, Gemini API, Room DB  
+<details open>
+<summary><b>🔥 MindMatrix · CL Infotech — Android App Development Intern (Gen AI) &nbsp;|&nbsp; Feb – May 2026</b></summary>
+<br/>
 
-### 💼 CodeLab Systems — React.js Frontend Developer Intern
-**May 2025** | **Award: 🏆 Certificate of Appreciation**  
-- Engineered responsive React.js components for production  
-- Optimized component performance and reusability  
-- **Tech:** React.js, JavaScript, CSS  
+> **Rating: ⭐ EXCELLENT**
 
-### 🎓 Deloitte Australia — Verified Industry Simulations
-**Mar – Apr 2026** | **Status: ✓ Verified Credentials (Forage)**  
-- Cybersecurity, Data Analytics, and Technology Job Simulations  
-- Explored SOC analysis, visualization, and digital strategy  
+- Built **Hasta-Kala Shop** — a 13-screen artisan business management Android app
+- Integrated **Google Gemini AI** via Google AI Studio for intelligent features
+- Implemented **Firebase Auth** + real-time Firestore database sync
+- Fixed a critical **LiveData sync bug** affecting production stability
+- **Tech:** `Kotlin` `Jetpack Compose` `Firebase` `Gemini API` `Room DB`
+
+</details>
+
+<details open>
+<summary><b>💼 CodeLab Systems, Mangalore — React.js Frontend Developer Intern &nbsp;|&nbsp; May 2025</b></summary>
+<br/>
+
+> **Award: 🏆 Certificate of Appreciation**
+
+- Engineered responsive **React.js** components for production codebases
+- Optimized component performance and reusability across the app
+- **Tech:** `React.js` `JavaScript` `CSS`
+
+</details>
+
+<details open>
+<summary><b>🎓 Deloitte Australia — Verified Industry Simulations (Forage) &nbsp;|&nbsp; Mar – Apr 2026</b></summary>
+<br/>
+
+> **Status: ✓ Verified Credentials**
+
+- **Cybersecurity:** Analysed web server logs as a SOC analyst to identify bot activity and insider-threat patterns
+- **Data Analytics:** Explored data visualization and business intelligence workflows
+- **Technology:** Digital strategy and technology consulting simulation
+
+</details>
 
 ---
 
-## 🏆 Verified Certifications & Achievements
-
-| Certification | Issuer | Date | Status |
-|---------------|--------|------|--------|
-| **Deloitte Cybersecurity** | Forage | Mar 2026 | ✓ Verified |
-| **Deloitte Data Analytics** | Forage | Apr 2026 | ✓ Verified |
-| **Deloitte Technology** | Forage | Apr 2026 | ✓ Verified |
-| **NPTEL Elite Grade** | IIT Kharagpur | 2025 | ✓ Elite Performer |
-| **Salesforce Agentforce** | Trailhead | 2025 | ✓ Skills Badge |
-| **Google Developer Program** | Google | 2026 | ✓ Active Member |
-
----
-
+<!-- ═══════════════════ PROJECTS CAROUSEL ═══════════════════ -->
 ## 🚀 Featured Projects
 
-### 🥇 Hasta‑Kala Shop — Android + AI Artisan Business Manager
-- ⭐ EXCELLENT rating (MindMatrix internship)  
-- Kotlin • Jetpack Compose • Firebase • Gemini API • Room DB  
-- 13‑screen UI • offline‑first • workflow automation  
+### 🥇 Hasta-Kala Shop — Android + AI Artisan Business Manager
+> `Kotlin` `Jetpack Compose` `Firebase` `Gemini API` `Room DB` · **2026 · MindMatrix**
+
+- ⭐ **EXCELLENT** rating from MindMatrix internship
+- 13-screen UI for sales, inventory & income tracking — offline-first architecture
+- Fixed critical LiveData sync bug; integrated Gemini AI for smart suggestions
 - 🔗 [GitHub Repo](https://github.com/AshishCherian15/Hasta-Kala-Shop)
 
-### 🥈 Study Bot — LLM Study Companion
-- FastAPI • LangChain • Groq LLaMA 3 • MongoDB  
-- Multi‑turn conversations • <500ms response time  
+---
+
+### 🥈 Study Bot — LLM-Powered Study Companion
+> `FastAPI` `LangChain` `Groq LLaMA 3` `MongoDB` · **2025 · Deployed**
+
+- AI study assistant with **persistent session memory** — context-aware multi-turn Q&A
+- `<500ms` response time via deployed REST API
 - 🔗 [GitHub Repo](https://github.com/AshishCherian15/study-bot)
 
+---
+
 ### ⭐ SnipFlow — AI Code Snippet Organizer (Android)
-- Kotlin • Jetpack Compose • Gemini AI • Room DB  
-- 10+ language support • 50% search time reduction  
+> `Kotlin` `Jetpack Compose` `Gemini AI SDK` `Room DB` · **2026**
+
+- Offline-first Android app to save, tag, and AI-explain code snippets
+- **10+ language** support • **50% search time** reduction
 - 🔗 [GitHub Repo](https://github.com/AshishCherian15/SnipFlow-Snippet-Code-Organizer-Andriod-App)
 
-### 🎯 Multi‑Stock Logistics Platform
-- Django • PostgreSQL • REST API • Chart.js  
-- Multi‑vendor warehouse system • 40% lookup time reduction  
+---
+
+### 🎯 Multi-Stock Logistics Platform
+> `Django` `PostgreSQL` `REST API` `Chart.js` · **2025–26 · Deployed**
+
+- Enterprise warehouse & logistics system — multi-vendor marketplace
+- Real-time analytics dashboard • **40% lookup time** reduction
 - 🔗 [GitHub Repo](https://github.com/AshishCherian15/Multi-Stock-Logistics-Platform)
 
+---
+
+### 🏥 Pharmacy Supply Management System
+> `Flask` `Neon PostgreSQL` `Chart.js` · **2024–26 · Deployed**
+
+- Role-based system (Admin + Customer) with full order lifecycle management
+- KPI dashboard + CSRF-protected auth
+- 🔗 [GitHub Repo](https://github.com/AshishCherian15/Pharmacy-Supply-Management-System)
+
+---
+
 ### 📊 Amazon Sales Analytics Dashboard
-- Flask • Pandas • Chart.js • Python  
-- 45% report interpretation time reduction  
+> `Flask` `Pandas` `Chart.js` `Python` · **Deployed**
+
+- BI analytics dashboard — **45% report interpretation time** reduction
 - 🔗 [GitHub Repo](https://github.com/AshishCherian15/Amazon-Sales-Analysis)
 
 ---
 
-## 📈 GitHub Stats & Contribution Graph 💙
+<!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
+## 🏆 Verified Certifications
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=tokyonight)](https://github.com/AshishCherian15?tab=repositories)
+| 🎓 Certification | 🏢 Issuer | 📅 Date | ✅ Status |
+|:----------------|:---------|:-------|:---------|
+| **Deloitte Cybersecurity Job Simulation** | Forage | Mar 2026 | ✓ Verified |
+| **Deloitte Data Analytics Job Simulation** | Forage | Apr 2026 | ✓ Verified |
+| **Deloitte Technology Job Simulation** | Forage | Apr 2026 | ✓ Verified |
+| **NPTEL — Privacy & Security** | IIT Kharagpur | 2025 | ✓ Elite Grade |
+| **Salesforce Agentforce (Agentblazer)** | Trailhead | 2025 | ✓ Skills Badge |
+| **Google Developer Program** | Google | 2026 | ✓ Active Member |
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/AshishCherian15?tab=repositories)
+</div>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=radical&no-frame=false&no-bg=false&margin-w=4)]
+---
+
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=12&card_width=420" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=tokyonight&langs_count=10&border_radius=12&card_width=380" />
+    </td>
+  </tr>
+</table>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AshishCherian15&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1)](https://github.com/AshishCherian15)
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshishCherian15&bg_color=0d1117&color=6366f1&line=06b6d4&point=6366f1&area=true&area_color=6366f1&hide_border=false&border_radius=12&custom_title=Ashish%27s%20Contribution%20Graph)](https://github.com/AshishCherian15)
+
+</div>
+
+---
+
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1)](https://github.com/AshishCherian15)
+
+</div>
+
+---
+
+<!-- ═══════════════════ EDUCATION ═══════════════════ -->
+## 🎓 Education
+
+<div align="center">
+
+| 🏫 Institution | 📚 Degree | 📅 Year | 🏆 Result |
+|:--------------|:---------|:-------|:---------|
+| **Karavali Institute of Technology, VTU** | B.E — Computer Science & Engineering | 2022 – 2026 | **CGPA 8.41 / 84.14% — First Class with Distinction** |
+
+</div>
+
+---
+
+<!-- ═══════════════════ WHAT I'M WORKING ON ═══════════════════ -->
+## 🎯 What I'm Working On
+
+```
+✅  Building production-grade Android apps with AI integration
+🔄  Contributing to open-source projects
+📚  Learning advanced ML architectures & LLM fine-tuning
+🚀  Deploying scalable full-stack applications
+💡  Exploring agentic AI workflows with LangChain & Gemini
+```
+
+---
+
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/ashishcherian15@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishcherian15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/ashish--cherian--158b49356-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-cherian-158b49356)
+[![GitHub](https://img.shields.io/badge/AshishCherian15-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCherian15)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-green-nine-18.vercel.app/)
+[![Google Skills](https://img.shields.io/badge/Google_Skills-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/97a9df8a-1d9d-4816-a8e0-a30f5a1ab289)
+[![Salesforce](https://img.shields.io/badge/Salesforce_Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/oq1wg5nl5neu3wzyhf)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Code today, impact tomorrow."*
+
+**Ashish Cherian** · Mangalore, Karnataka, India · 2026
+
+**⭐ Star my repos if you find them useful!**
+
+</div>
