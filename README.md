@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ═══════════════════ PROFILE IMAGE ═══════════════════ -->
-<img src="./GITHUB-profile.png" width="100%" alt="Ashish Cherian GitHub Profile"/>
+<img src="./assets/GITHUB-profile.png" width="100%" alt="Ashish Cherian GitHub Profile"/>
 
 <!-- ═══════════════════ TYPING HEADLINE ═══════════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Ashish+Cherian+👋;Full-Stack+%7C+Android+%7C+AI+Engineer;Kotlin+•+React+•+Django+•+FastAPI;Building+Intelligent+Systems+🚀;CGPA+8.41+%7C+First+Class+with+Distinction)](https://github.com/AshishCherian15)
