@@ -3,9 +3,13 @@
 <img src="https://media.tenor.com/2vN3E1vQzJkAAAAC/anime-coding.gif" width="260" />
 
 # Hey, I'm Ashish Cherian 👋  
-### Full-Stack Developer • Android Engineer • AI Systems Engineer
+### Full-Stack Developer • Android Engineer • Applied AI Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+apps+and+scalable+systems;Android+%7C+React+%7C+Django+%7C+FastAPI;Gemini+%7C+LLaMA+%7C+LangChain;Always+learning%2C+always+shipping+products)](https://github.com/AshishCherian15)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Profile+Views)](https://github.com/AshishCherian15)
+[![Followers](https://img.shields.io/github/followers/AshishCherian15?style=flat-square&color=0EA5E9&logo=github&label=Followers)](https://github.com/AshishCherian15?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/AshishCherian15?style=flat-square&color=22C55E&label=Total+Stars)](https://github.com/AshishCherian15?tab=stars)
 
 <a href="https://portfolio-green-nine-18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white"></a>
 <a href="https://linkedin.com/in/ashish-cherian-158b49356"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -21,36 +25,51 @@
 > Turning ideas into intelligent, animated, and production-ready experiences.
 
 - 🎓 B.E CSE (VTU) — CGPA **8.41**, First Class with Distinction  
-- 💻 **Full-Stack + Android + AI Systems Engineer**  
+- 💻 **Full-Stack + Android + Applied AI Engineer**  
 - 🤖 Integrating **Gemini**, **Groq LLaMA 3**, and **LangChain** into real products  
 - 🚀 3 internships • 5+ shipped products • 6 certifications  
-- 📍 Bengaluru, India  
+- 📍 Mangalore, Karnataka, India  
 
 ---
 
-## ⚙️ Tech Universe
+## 🏢 Professional Experience
 
-**Languages:**  
-Python • JavaScript • TypeScript • Kotlin • Java  
+### 🔥 MindMatrix - Android App Development Intern (Gen AI)
+**Feb – May 2026** | **Rating: ⭐ EXCELLENT** (Verified)
+- Built **Hasta-Kala Shop** — 13-screen artisan business management app  
+- Integrated Google Gemini AI for intelligent features  
+- Implemented Firebase Auth + real-time database sync  
+- Fixed critical LiveData bug affecting production  
+- **Tech:** Kotlin, Jetpack Compose, Firebase, Gemini API, Room DB  
 
-**Frontend:**  
-React • HTML • CSS • Tailwind  
+### 💼 CodeLab Systems - React.js Frontend Developer Intern
+**May 2025** | **Award: 🏆 Certificate of Appreciation**
+- Engineered responsive React.js components for production  
+- Optimized component performance and reusability  
+- **Tech:** React.js, JavaScript, CSS  
 
-**Mobile:**  
-Android • Jetpack Compose  
-
-**Backend:**  
-Node.js • Django • FastAPI • Flask  
-
-**Databases:**  
-PostgreSQL • MongoDB • Firebase  
-
-**AI & Tools:**  
-Google Gemini • LangChain • Git • GitHub • Docker • Vercel  
+### 🎓 Deloitte Australia - Verified Industry Simulations
+**Mar – Apr 2026** | **Status: ✓ Verified Credentials (Forage)**
+- **Cybersecurity Job Simulation** — SOC analyst, log analysis, threat detection  
+- **Data Analytics Job Simulation** — Exploratory analysis, visualization, insights  
+- **Technology Job Simulation** — Digital strategy, capability assessment  
 
 ---
 
-## 🚀 Featured Builds
+## 🏆 Verified Certifications & Achievements
+
+| Cert | Issuer | Date | Status |
+|------|--------|------|--------|
+| **Deloitte Cybersecurity** | Forage | Mar 2026 | ✓ Verified |
+| **Deloitte Data Analytics** | Forage | Apr 2026 | ✓ Verified |
+| **Deloitte Technology** | Forage | Apr 2026 | ✓ Verified |
+| **NPTEL Elite Grade** | IIT Kharagpur | 2025 | ✓ Elite Performer |
+| **Salesforce Agentforce** | Trailhead | 2025 | ✓ Skills Badge |
+| **Google Developer Program** | Google | 2026 | ✓ Active Member |
+
+---
+
+## 🚀 Featured Projects
 
 ### 🥇 Hasta-Kala Shop — Android + AI Artisan Business Manager
 - ⭐ EXCELLENT rating (MindMatrix internship)  
@@ -73,14 +92,37 @@ Google Gemini • LangChain • Git • GitHub • Docker • Vercel
 - Multi-vendor warehouse system • 40% lookup time reduction  
 - 🔗 [GitHub Repo](https://github.com/AshishCherian15/Multi-Stock-Logistics-Platform)
 
+### ⭐ Pharmacy Supply Management System
+- Flask • PostgreSQL • Chart.js • Bootstrap  
+- 35% admin effort reduction • secure role-based access  
+- 🔗 [GitHub Repo](https://github.com/AshishCherian15/Pharmacy-Supply-Management-System)
+
+### 📊 Amazon Sales Analytics Dashboard
+- Flask • Pandas • Chart.js • Python  
+- 45% report interpretation time reduction  
+- 🔗 [GitHub Repo](https://github.com/AshishCherian15/Amazon-Sales-Analysis)
+
 ---
 
-## 🏢 Experience & Credentials
+## ⚙️ Tech Universe
 
-- 🔥 **MindMatrix** — Android App Dev Intern (Gen AI)  
-- 💼 **CodeLab Systems** — React.js Frontend Intern  
-- 🎓 **Deloitte (Forage)** — Cybersecurity, Data Analytics, Technology simulations  
-- 🎖️ **NPTEL Elite (IIT Kharagpur)** • **Salesforce Trailhead** • **Google Developer Program**
+### Languages  
+Python • JavaScript • TypeScript • Kotlin • Java  
+
+### Frontend  
+React • HTML • CSS • Tailwind  
+
+### Mobile  
+Android • Jetpack Compose  
+
+### Backend  
+Node.js • Django • FastAPI • Flask  
+
+### Databases  
+PostgreSQL • MongoDB • Firebase  
+
+### AI & Tools  
+Google Gemini • LangChain • Git • GitHub • Docker • Vercel  
 
 ---
 
@@ -119,9 +161,9 @@ Google Gemini • LangChain • Git • GitHub • Docker • Vercel
 
 ### 💭 "Write code today that your future self will thank you for."
 
-[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Dev Quote](https://quotes-github-readme-vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 Made with ❤️ by Ashish Cherian  
-**Bengaluru • 2026**
+**Mangalore • 2026**
 
 </div>
