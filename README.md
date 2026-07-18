@@ -1,237 +1,235 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="90%" alt="Developer GIF" />
+# Hey, I'm Ashish Cherian 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Android+Engineer;Building+Intelligent%2C+Scalable+Products;React+%7C+Node.js+%7C+Python+%7C+Kotlin;Open+to+Collaboration+%26+Opportunities)](https://github.com/AshishCherian15)
 
-<br/>
+[![Profile Views](https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Profile+Views)](https://github.com/AshishCherian15)
+[![Followers](https://img.shields.io/github/followers/AshishCherian15?style=flat-square&color=0EA5E9&logo=github&label=Followers)](https://github.com/AshishCherian15?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/AshishCherian15?style=flat-square&color=22C55E&label=Total+Stars)](https://github.com/AshishCherian15?tab=stars)
 
-# Hi, I'm Ashish Cherian 👋
-
-<img src="assets/dev-boy.png" width="150" alt="Ashish Cherian" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=900&color=00CFFF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Full-Stack+Engineer;Building+Scalable+Products+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%7C+Kotlin;Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=AshishCherian15&color=00CFFF&style=flat-square&label=Profile%20Views" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/AshishCherian15?style=flat-square&color=0EA5E9&logo=github&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/AshishCherian15?style=flat-square&color=22C55E&label=Stars" alt="Stars" />
-
-</div>
+<a href="https://portfolio-green-nine-18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white"></a>
+<a href="https://linkedin.com/in/ashish-cherian-158b49356"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ashishcherian15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/AshishCherian15"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
 
 ---
+
+</div>
 
 ## 💫 About Me
-
-👨‍💻 Backend-focused Full-Stack Developer<br>
-📍 Mangalore, India<br>
-🎓 Final-year CSE student at Karavali Institute of Technology, Mangalore<br>
-⚡ Interested in scalable APIs, clean architecture, and system design<br>
-🚀 Building practical products with strong fundamentals
+👨‍💻 Full-Stack Developer | Android Engineer | Applied AI Engineer
+📍 Mangalore, Karnataka, India  
+🎓 B.E Computer Science & Engineering (VTU) | CGPA: 8.41 | First Class with Distinction  
+⚡ Passionate about building scalable products with clean architecture  
+🚀 3 verified internships | 5+ shipped projects | 6 professional certifications  
 
 ---
 
-## 🌐 Socials
+## 🏢 Professional Experience
 
-<div align="center">
+### 🔥 MindMatrix - Android App Development Intern (Gen AI)
+**Feb – May 2026** | **Rating: ⭐ EXCELLENT** (Verified)
+- Built **Hasta-Kala Shop** — 13-screen artisan business management app  
+- Integrated Google Gemini AI for intelligent features  
+- Implemented Firebase Auth + real-time database sync  
+- Fixed critical LiveData bug affecting production  
+- **Tech:** Kotlin, Jetpack Compose, Firebase, Gemini API, Room DB  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AshishCherian15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AshishCherian15)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishcherian15@gmail.com)
+### 💼 CodeLab Systems - React.js Frontend Developer Intern
+**May 2025** | **Award: 🏆 Certificate of Appreciation**
+- Engineered responsive React.js components for production  
+- Optimized component performance and reusability  
+- **Tech:** React.js, JavaScript, CSS  
 
-</div>
+### 🎓 Deloitte Australia - Verified Industry Simulations
+**Mar – Apr 2026** | **Status: ✓ Verified Credentials (Forage)**
+- **Cybersecurity Job Simulation** — SOC analyst, log analysis, threat detection  
+- **Data Analytics Job Simulation** — Exploratory analysis, visualization, insights  
+- **Technology Job Simulation** — Digital strategy, capability assessment  
+
+---
+
+## 🏆 Verified Certifications & Achievements
+
+| Cert | Issuer | Date | Status |
+|------|--------|------|--------|
+| **Deloitte Cybersecurity** | Forage | Mar 2026 | ✓ Verified |
+| **Deloitte Data Analytics** | Forage | Apr 2026 | ✓ Verified |
+| **Deloitte Technology** | Forage | Apr 2026 | ✓ Verified |
+| **NPTEL Elite Grade** | IIT Kharagpur | 2025 | ✓ Elite Performer |
+| **Salesforce Agentforce** | Trailhead | 2025 | ✓ Skills Badge |
+| **Google Developer Program** | Google | 2026 | ✓ Active Member |
+
+---
+
+## 🚀 Featured Projects
+
+### 🥇 Hasta-Kala Shop
+**Android + AI Artisan Business Management**
+- **Type:** Production-ready Android App  
+- **Status:** ⭐ EXCELLENT rating (MindMatrix internship)  
+- **Tech Stack:** Kotlin, Jetpack Compose, Firebase, Gemini API, Room DB  
+- **Impact:** 13-screen UI, 60% workflow reduction, offline-first  
+- **Links:** [GitHub Repo](https://github.com/AshishCherian15/Hasta-Kala-Shop)
+
+### 🥈 Multi-Stock Logistics Platform
+**Full-Stack Enterprise Warehouse System**
+- **Type:** Web Application (Deployed)  
+- **Tech Stack:** Django, PostgreSQL, REST API, Chart.js  
+- **Impact:** Multi-vendor marketplace, 40% lookup time reduction  
+- **Links:** [GitHub Repo](https://github.com/AshishCherian15/Multi-Stock-Logistics-Platform)
+
+### 🥉 Study Bot - AI Assistant
+**Context-Aware LLM Study Companion**
+- **Type:** AI Backend Service (API Deployed)  
+- **Tech Stack:** FastAPI, LangChain, Groq LLaMA 3, MongoDB  
+- **Impact:** Multi-turn conversations, <500ms response time  
+- **Links:** [GitHub Repo](https://github.com/AshishCherian15/study-bot)
+
+### ⭐ SnipFlow
+**AI Code Snippet Organizer (Android)**
+- **Type:** Mobile App (Production-ready)  
+- **Tech Stack:** Kotlin, Jetpack Compose, Gemini AI, Room DB  
+- **Impact:** 10+ language support, 50% search time reduction  
+- **Links:** [GitHub Repo](https://github.com/AshishCherian15/SnipFlow-Snippet-Code-Organizer-Andriod-App)
+
+### 🎯 Pharmacy Supply Management System
+**Role-Based Healthcare Operations Platform**
+- **Type:** Full-Stack Web App (Deployed)  
+- **Tech Stack:** Flask, PostgreSQL, Chart.js, Bootstrap  
+- **Impact:** 35% admin effort reduction, secure role-based access  
+- **Links:** [GitHub Repo](https://github.com/AshishCherian15/Pharmacy-Supply-Management-System)
+
+### 📊 Amazon Sales Analytics Dashboard
+**Interactive Business Intelligence Dashboard**
+- **Type:** Data Visualization (Live Dashboard)  
+- **Tech Stack:** Flask, Pandas, Chart.js, Python  
+- **Impact:** 45% report interpretation time reduction  
+- **Links:** [GitHub Repo](https://github.com/AshishCherian15/Amazon-Sales-Analysis)
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
 
-</div>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### AI/ML & Tools
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B6?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+### Cloud & DevOps
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-### 📈 Repository Statistics
-
-| 📊 Metric | 📋 Data |
-|-----------|--------|
-| **Public Repositories** | 20+ |
-| **Primary Languages** | JavaScript, Python, Kotlin, Java |
-| **Frontend Framework** | React, HTML5/CSS3 |
-| **Backend Stack** | Node.js, Python, Supabase |
-| **Mobile Development** | Android (Kotlin, Java) |
-| **Databases** | MongoDB, Supabase PostgreSQL |
-| **ML/AI Tools** | Scikit-Learn, TF-IDF, Pandas |
-| **Development Tools** | Git, GitHub, VS Code, Vercel |
-
-**🔗 [View Complete Repository List](https://github.com/AshishCherian15?tab=repositories)**
 
 <div align="center">
 
-### 📈 Real-Time Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=tokyonight&count_private=false&disable_animations=false)](https://github.com/AshishCherian15?tab=repositories)
 
-<a href="https://github.com/AshishCherian15?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=tokyo_night&include_all_commits=true&count_private=false&disable_animations=false" height="180" />
-</a>
-<a href="https://github.com/AshishCherian15?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=tokyo_night&langs_count=8" height="180" />
-</a>
-
-### 📋 Repository Stats
-
-| Metric | Count |
-|--------|-------|
-| 📁 Public Repositories | 20+ |
-| 🌟 Featured Projects | 6 |
-| 💻 Languages Used | 8+ |
-| 🏆 Main Stack | React, Node.js, Android, Python |
-| 🔥 Most Used Language | JavaScript / Python |
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/AshishCherian15?tab=repositories)
 
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/AshishCherian15)
 
 </div>
+
+---
 
 ## 📈 GitHub Activity
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshishCherian15&theme=tokyo-night&hide_border=true&bg_color=0D1117)
-
-</div>
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-### 🔝 Top Repositories (By Complexity & Impact)
-#### 🥇 Featured Public Repositories
-
-| # | Project | Tech Stack | Description |
-|---|---------|-----------|-------------|
-| 1️⃣ | **[Portfolio](https://github.com/AshishCherian15/Portfolio)** | `Supabase` `HTML5` `CSS3` `JavaScript` | Single-file neon portfolio with Supabase CMS + Live Admin Panel |
-| 2️⃣ | **[Pharmacy-Management](https://github.com/AshishCherian15/Pharmacy-Management)** | `React` `Node.js` `MongoDB` | Full-stack inventory, billing & patient records |
-| 3️⃣ | **[SnipFlow](https://github.com/AshishCherian15/SnipFlow)** | `Kotlin` `Jetpack Compose` `Android` | Modern code snippet manager for Android |
-
-#### 📚 Tech Stack Breakdown
-
-- **Languages:** JavaScript, Python, Kotlin, Java, HTML/CSS
-- **Frontend:** React, HTML5, CSS3, Jetpack Compose
-- **Backend:** Node.js, Python, Supabase
-- **Mobile:** Android Development (Kotlin, Java)
-- **Databases:** MongoDB, Supabase (PostgreSQL)
-- **ML/Data:** Scikit-Learn, TF-IDF, Pandas, NumPy
-- **Tools:** Git, GitHub, VS Code, Docker, Vercel
-
-**[📂 Browse All Public Repositories →](https://github.com/AshishCherian15?tab=repositories)**
-
-<div align="center">
-
-#### 🥇 Most Complex Projects
-
-| # | Project | Tech Stack | Description |
-|---|---------|-----------|-------------|
-| 1️⃣ | **[Portfolio](https://github.com/AshishCherian15/Portfolio)** | `Supabase` `HTML5` `CSS3` `JavaScript` | Single-file neon portfolio with Supabase CMS + Admin Panel |
-| 2️⃣ | **[Pharmacy Management](https://github.com/AshishCherian15/Pharmacy-Management)** | `React` `Node.js` `MongoDB` | Full-stack inventory & billing system |
-| 3️⃣ | **[SnipFlow](https://github.com/AshishCherian15/SnipFlow)** | `Kotlin` `Jetpack Compose` `Android` | Modern code snippet manager for Android |
-| 4️⃣ |  **[Movie Recommender](https://github.com/AshishCherian15)** | `Python` `Scikit-Learn` `TF-IDF` | ML-based content recommendation engine |
-
-#### 📊 Technologies by Frequency
-
-- **Frontend:** React, HTML/CSS, JavaScript, Jetpack Compose
-- **Backend:** Node.js, Python, Supabase
-- **Mobile:** Android, Kotlin, Java
-- **Databases:** MongoDB, Supabase
-- **ML/Data:** Scikit-Learn, TF-IDF, Pandas
-
-**[🔗 View All Repositories](https://github.com/AshishCherian15?tab=repositories)**
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshishCherian15&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/AshishCherian15)
 
 </div>
 
 ---
 
+## 🎯 Metrics & Analytics
+
+| Metric | Value |
+|--------|-------|
+| 📁 Public Repositories | 20+ |
+| ⭐ Total GitHub Stars | 6+ |
+| 👥 Followers | 5+ |
+| 💻 Languages | 8+ |
+| 🏢 Verified Internships | 3 |
+| 🎓 Professional Certs | 6 |
+| 🚀 Shipped Products | 5+ |
+| 📊 CGPA | 8.41 (First Class) |
+
+---
+
+## 🎨 Latest Updates
+
+- ✅ Completed Deloitte Cybersecurity, Data Analytics, Technology Simulations (Mar–Apr 2026)  
+- ✅ MindMatrix Internship Excellence Rating (Feb–May 2026)  
+- ✅ Shipped SnipFlow Android App with Gemini AI Integration  
+- ✅ Study Bot - AI Assistant with LLaMA 3 Integration  
+- ✅ Active member of Google Developer Program  
+
+---
+
+## 🤝 Let's Connect!
+
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=AshishCherian15&icon=0&color=0)](https://visitcount.itsvg.in)
+[**📧 Email Me**](mailto:ashishcherian15@gmail.com) | 
+[**💼 LinkedIn**](https://linkedin.com/in/ashish-cherian-158b49356) | 
+[**🌐 Portfolio**](https://portfolio-green-nine-18.vercel.app/) | 
+[**📱 GitHub**](https://github.com/AshishCherian15) | 
+[**🎓 Google Skills**](https://www.skills.google/public_profiles/97a9df8a-1d9d-4816-a8e0-a30f5a1ab289) | 
+[**⭐ Salesforce**](https://www.salesforce.com/trailblazer/oq1wg5nl5neu3wzyhf)
 
 </div>
 
 ---
 
+### 💭 "Write code today that your future self will thank you for."
+
 <div align="center">
 
-### 💭 Write code today that your future self will thank you for.
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-Made with ❤️ by Ashish Cherian
+Made by Ashish Cherian  
+**Mangalore • 2026**
 
 </div>
