@@ -266,6 +266,7 @@
 ---
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
@@ -273,28 +274,53 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=12&card_width=420" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=12&card_width=420" 
+        alt="Ashish's GitHub Stats"
+      />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=tokyonight&langs_count=10&border_radius=12&card_width=380" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=tokyonight&langs_count=10&border_radius=12&card_width=380" 
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AshishCherian15&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1)](https://github.com/AshishCherian15)
+<br/>
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshishCherian15&bg_color=0d1117&color=6366f1&line=06b6d4&point=6366f1&area=true&area_color=6366f1&hide_border=false&border_radius=12&custom_title=Ashish%27s%20Contribution%20Graph)](https://github.com/AshishCherian15)
+<img 
+  src="https://streak-stats.demolab.com?user=AshishCherian15&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" 
+  alt="GitHub Streak"
+/>
+
+<br/>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AshishCherian15&bg_color=0d1117&color=6366f1&line=06b6d4&point=6366f1&area=true&area_color=6366f1&hide_border=false&border_radius=12&custom_title=Ashish%27s%20Contribution%20Graph" 
+  alt="Contribution Graph"
+/>
+
+</div>
+
+---
 
 </div>
 
 ---
 
 <!-- ═══════════════════ TROPHIES ═══════════════════ -->
+---
+
 ## 🏅 GitHub Trophies
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1)](https://github.com/AshishCherian15)
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" 
+  alt="GitHub Trophies"
+/>
 
 </div>
 
