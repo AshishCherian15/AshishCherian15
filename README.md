@@ -326,20 +326,18 @@
 
 <!-- ═══════════════════ TROPHIES ═══════════════════ -->
 ---
-
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" 
+  src="https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=2" 
   alt="GitHub Trophies"
 />
 
 </div>
 
 ---
-
 <!-- ═══════════════════ EDUCATION ═══════════════════ -->
 ## 🎓 Education
 
