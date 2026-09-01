@@ -297,29 +297,19 @@ https://github.com/AshishCherian15/Amazon-Sales-Analysis
 
 # 📊 GitHub Statistics
 
-<!--
-These values are generated dynamically from GitHub.
-No follower, repository, star, commit or language numbers
-are manually hard-coded here.
--->
-
 <div align="center">
 
-<a href="https://github.com/AshishCherian15">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
-    height="180"
-    alt="Ashish Cherian GitHub Stats"
-  />
-</a>
+<img
+  src="./profile/stats.svg"
+  height="180"
+  alt="Ashish Cherian GitHub Stats"
+/>
 
-<a href="https://github.com/AshishCherian15">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Ashish Cherian Top Languages"
-  />
-</a>
+<img
+  src="./profile/top-langs.svg"
+  height="180"
+  alt="Ashish Cherian Top Languages"
+/>
 
 </div>
 
@@ -329,27 +319,23 @@ are manually hard-coded here.
 
 <div align="center">
 
-<a href="https://github.com/AshishCherian15">
-  <img
-    src="https://streak-stats.demolab.com/?user=AshishCherian15&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Ashish Cherian GitHub Contribution Streak"
-  />
-</a>
+<img
+  src="./profile/streak.svg"
+  alt="Ashish Cherian GitHub Contribution Streak"
+/>
 
 </div>
 
 ---
 
-# 📈 GitHub Contribution Activity
+# 🏆 GitHub Achievements & Trophies
 
 <div align="center">
 
-<a href="https://github.com/AshishCherian15">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AshishCherian15&theme=github-compact&hide_border=true&radius=12"
-    alt="Ashish Cherian GitHub Contribution Activity"
-  />
-</a>
+<img
+  src="./profile/trophy.svg"
+  alt="Ashish Cherian GitHub Trophies"
+/>
 
 </div>
 
