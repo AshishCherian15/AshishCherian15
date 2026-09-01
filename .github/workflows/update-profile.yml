@@ -1,1 +1,88 @@
+name: Update GitHub Profile Stats
 
+on:
+  schedule:
+    - cron: "0 3 * * *"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - ".github/workflows/update-profile.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # -------------------------------------------------------
+      # 1. Checkout profile repository
+      # -------------------------------------------------------
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # -------------------------------------------------------
+      # 2. Generate GitHub Statistics
+      # -------------------------------------------------------
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=AshishCherian15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------------------------------------
+      # 3. Generate Top Languages
+      # -------------------------------------------------------
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=AshishCherian15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------------------------------------
+      # 4. Generate GitHub Contribution Streak
+      # -------------------------------------------------------
+
+      - name: Generate Contribution Streak
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=AshishCherian15&theme=tokyonight&hide_border=true&border_radius=12&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------------------------------------
+      # 5. Generate GitHub Trophies
+      # -------------------------------------------------------
+
+      - name: Generate GitHub Trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: username=AshishCherian15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # -------------------------------------------------------
+      # 6. Commit generated SVG files
+      # -------------------------------------------------------
+
+      - name: Commit generated profile cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub profile statistics"
+
+          git push
