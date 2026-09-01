@@ -384,7 +384,9 @@ are manually hard-coded here.
 
 ---
 
-# 🎯 What I'm Working On
+<!-- ═══════════════════ WHAT I'M WORKING ON ═══════════════════ -->
+
+## 🧠 What I'm Working On
 
 ```text
 🤖 Building AI-powered applications
@@ -394,10 +396,8 @@ are manually hard-coded here.
 🔧 Improving backend architecture and APIs
 📚 Learning advanced ML and AI engineering
 🚀 Contributing to open-source projects
-```
 
----
-
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
 # 📫 Let's Connect
 
 <div align="center">
