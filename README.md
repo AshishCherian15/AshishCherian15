@@ -17,15 +17,19 @@
 <br/>
 
 <!-- SOCIAL LINKS -->
+
 <a href="https://github.com/AshishCherian15">
   <img src="https://img.shields.io/badge/GitHub-AshishCherian15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://linkedin.com/in/ashish-cherian-158b49356">
   <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Cherian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:ashishcherian15@gmail.com">
   <img src="https://img.shields.io/badge/Email-ashishcherian15%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 <a href="https://portfolio-green-nine-18.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
@@ -278,17 +282,14 @@ https://github.com/AshishCherian15/Amazon-Sales-Analysis
 
 # 🏆 GitHub Achievements & Trophies
 
-<!--
-This is dynamically generated from the GitHub account.
-No follower/star/commit numbers are hard-coded.
--->
-
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"
-  alt="Ashish Cherian GitHub Trophies"
-/>
+<a href="https://github.com/AshishCherian15?tab=achievements">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"
+    alt="Ashish Cherian GitHub Trophies"
+  />
+</a>
 
 </div>
 
@@ -297,13 +298,9 @@ No follower/star/commit numbers are hard-coded.
 # 📊 GitHub Statistics
 
 <!--
-IMPORTANT:
-Do NOT use count_private=true here.
-The public GitHub Readme Stats service only exposes
-publicly accessible GitHub information.
-
-This means the numbers shown are generated from
-the GitHub account rather than manually written.
+These values are generated dynamically from GitHub.
+No follower, repository, star, commit or language numbers
+are manually hard-coded here.
 -->
 
 <div align="center">
@@ -332,10 +329,12 @@ the GitHub account rather than manually written.
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=AshishCherian15&theme=tokyonight&hide_border=true&border_radius=12"
-  alt="Ashish Cherian GitHub Contribution Streak"
-/>
+<a href="https://github.com/AshishCherian15">
+  <img
+    src="https://streak-stats.demolab.com/?user=AshishCherian15&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="Ashish Cherian GitHub Contribution Streak"
+  />
+</a>
 
 </div>
 
@@ -345,10 +344,12 @@ the GitHub account rather than manually written.
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AshishCherian15&theme=github-compact&hide_border=true&radius=12"
-  alt="Ashish Cherian GitHub Contribution Activity"
-/>
+<a href="https://github.com/AshishCherian15">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AshishCherian15&theme=github-compact&hide_border=true&radius=12"
+    alt="Ashish Cherian GitHub Contribution Activity"
+  />
+</a>
 
 </div>
 
@@ -393,18 +394,37 @@ the GitHub account rather than manually written.
 🔧 Improving backend architecture and APIs
 📚 Learning advanced ML and AI engineering
 🚀 Contributing to open-source projects
+```
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
-## 📫 Let's Connect
+---
+
+# 📫 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/ashishcherian15@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishcherian15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/ashish--cherian--158b49356-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-cherian-158b49356)
-[![GitHub](https://img.shields.io/badge/AshishCherian15-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshishCherian15)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-green-nine-18.vercel.app/)
-[![Google Skills](https://img.shields.io/badge/Google_Skills-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/97a9df8a-1d9d-4816-a8e0-a30f5a1ab289)
-[![Salesforce](https://img.shields.io/badge/Salesforce_Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/oq1wg5nl5neu3wzyhf)
+<a href="mailto:ashishcherian15@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ashishcherian15%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://linkedin.com/in/ashish-cherian-158b49356">
+  <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Cherian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/AshishCherian15">
+  <img src="https://img.shields.io/badge/GitHub-AshishCherian15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://portfolio-green-nine-18.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.skills.google/public_profiles/97a9df8a-1d9d-4816-a8e0-a30f5a1ab289">
+  <img src="https://img.shields.io/badge/Google%20Skills-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Skills"/>
+</a>
+
+<a href="https://www.salesforce.com/trailblazer/oq1wg5nl5neu3wzyhf">
+  <img src="https://img.shields.io/badge/Salesforce%20Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Trailhead"/>
+</a>
 
 </div>
 
@@ -414,8 +434,10 @@ the GitHub account rather than manually written.
 
 ### 💭 *"Code today, impact tomorrow."*
 
-**Ashish Cherian** · Mangalore, Karnataka, India · 2026
+**Ashish Cherian**
 
-**⭐ Star my repos if you find them useful!**
+<br/>
+
+⭐ **Explore my repositories and projects**
 
 </div>
