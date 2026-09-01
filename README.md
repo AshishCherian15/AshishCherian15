@@ -355,35 +355,6 @@ are manually hard-coded here.
 
 ---
 
-# 📌 My GitHub Profile
-
-<div align="center">
-
-<a href="https://github.com/AshishCherian15">
-  <img
-    src="https://img.shields.io/badge/Repositories-View%20All-6366F1?style=for-the-badge&logo=github&logoColor=white"
-    alt="Repositories"
-  />
-</a>
-
-<a href="https://github.com/AshishCherian15?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/Projects-Explore-06B6D4?style=for-the-badge&logo=github&logoColor=white"
-    alt="Projects"
-  />
-</a>
-
-<a href="https://github.com/AshishCherian15?tab=achievements">
-  <img
-    src="https://img.shields.io/badge/Achievements-View-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
-    alt="Achievements"
-  />
-</a>
-
-</div>
-
-
-````markdown
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    WHAT I'M WORKING ON                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -400,7 +371,10 @@ are manually hard-coded here.
 🚀 Contributing to open-source projects
 ```
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      LET'S CONNECT                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 # 📫 Let's Connect
 
 <div align="center">
