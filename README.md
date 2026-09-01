@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- PROFILE BANNER -->
-<img src="./assets/GITHUB-profile.png" width="100%" alt="Ashish Cherian GitHub Profile"/>
+<img src="https://raw.githubusercontent.com/AshishCherian15/AshishCherian15/main/assets/GITHUB-profile.png" width="100%" alt="Ashish Cherian GitHub Profile"/>
 
 <br/>
 
@@ -284,8 +284,8 @@ https://github.com/AshishCherian15/Amazon-Sales-Analysis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=dark&hide_border=true" height="180" alt="Ashish Cherian GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=dark&hide_border=true" height="180" alt="Ashish Cherian Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Ashish Cherian GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Ashish Cherian Top Languages" />
 
 </div>
 
@@ -295,7 +295,7 @@ https://github.com/AshishCherian15/Amazon-Sales-Analysis
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishCherian15&theme=dark&hide_border=true" alt="Ashish Cherian GitHub Contribution Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishCherian15&theme=tokyonight&hide_border=true" alt="Ashish Cherian GitHub Contribution Streak" />
 
 </div>
 
@@ -311,25 +311,17 @@ https://github.com/AshishCherian15/Amazon-Sales-Analysis
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    WHAT I'M WORKING ON                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🧠 What I'm Working On
 
-```text
-🤖 Building AI-powered applications
-📱 Developing production-grade Android applications
-🌐 Building scalable full-stack applications
-🧠 Exploring LLMs, LangChain and AI agents
-🔧 Improving backend architecture and APIs
-📚 Learning advanced ML and AI engineering
-🚀 Contributing to open-source projects
-```
+- 🤖 Building AI-powered applications
+- 📱 Developing production-grade Android applications
+- 🌐 Building scalable full-stack applications
+- 🧠 Exploring LLMs, LangChain and AI agents
+- 🔧 Improving backend architecture and APIs
+- 📚 Learning advanced ML and AI engineering
+- 🚀 Contributing to open-source projects
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      LET'S CONNECT                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 # 📫 Let's Connect
 
