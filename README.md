@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                  ASHISH CHERIAN — PROFILE                 -->
+<!--                 ASHISH CHERIAN — PROFILE                  -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -284,17 +284,8 @@ https://github.com/AshishCherian15/Amazon-Sales-Analysis
 
 <div align="center">
 
-<img
-  src="./profile/stats.svg"
-  height="180"
-  alt="Ashish Cherian GitHub Stats"
-/>
-
-<img
-  src="./profile/top-langs.svg"
-  height="180"
-  alt="Ashish Cherian Top Languages"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=AshishCherian15&show_icons=true&theme=dark&hide_border=true" height="180" alt="Ashish Cherian GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishCherian15&layout=compact&theme=dark&hide_border=true" height="180" alt="Ashish Cherian Top Languages" />
 
 </div>
 
@@ -304,10 +295,7 @@ https://github.com/AshishCherian15/Amazon-Sales-Analysis
 
 <div align="center">
 
-<img
-  src="./profile/streak.svg"
-  alt="Ashish Cherian GitHub Contribution Streak"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishCherian15&theme=dark&hide_border=true" alt="Ashish Cherian GitHub Contribution Streak" />
 
 </div>
 
@@ -317,10 +305,7 @@ https://github.com/AshishCherian15/Amazon-Sales-Analysis
 
 <div align="center">
 
-<img
-  src="./profile/trophy.svg"
-  alt="Ashish Cherian GitHub Trophies"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=onedark&column=6" alt="Ashish Cherian GitHub Trophies" />
 
 </div>
 
