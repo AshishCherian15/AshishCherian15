@@ -266,6 +266,7 @@
 ---
 <!-- ═══════════════════ GITHUB ACHIEVEMENTS ═══════════════════ -->
 ---
+
 ## 🎖️ GitHub Achievements
 
 <div align="center">
