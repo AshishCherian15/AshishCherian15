@@ -266,13 +266,12 @@
 ---
 <!-- ═══════════════════ GITHUB ACHIEVEMENTS ═══════════════════ -->
 ---
-
 ## 🎖️ GitHub Achievements
 
 <div align="center">
 
 <img 
-  src="https://github-profile-achievements.vercel.app/api?username=AshishCherian15&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" 
+  src="https://github-profile-trophy.vercel.app/?username=AshishCherian15&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" 
   alt="GitHub Achievements"
 />
 
